@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-07",
+ "items": [
+  {
+   "title": "宇航员在月球上画图探险",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+   "summary": "宇航员在月球上拍照，并画图标记，探索月球表面。",
+   "interpretation": "宇航员通过在月球表面行走，收集数据，帮助我们了解月球。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索直接相关，激发学生对太空的兴趣。"
+  },
+  {
+   "title": "太空望远镜发现新星云",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+   "summary": "太空望远镜捕捉到星云中的恒星喷流，非常壮观。",
+   "interpretation": "科学家使用望远镜观察星云，了解恒星的形成和演化。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合小学生理解，激发对宇宙的兴趣。"
+  },
+  {
+   "title": "北极冰盖缩小，气候变暖",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
+   "summary": "北极的冰盖面积减少，表明地球气候变暖。",
+   "interpretation": "气候变化对地球的冰盖有影响，需要我们保护环境。",
+   "knowledge": "四下《环境与人类》",
+   "grade": 4,
+   "grade_reason": "与环境保护相关，适合小学生学习。"
+  },
+  {
+   "title": "火星探测车发现美丽日出",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
+   "summary": "火星探测车捕捉到火星日出的美丽景象。",
+   "interpretation": "火星探测车帮助我们了解火星的环境和特征。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合小学生理解，激发对太空的兴趣。"
+  },
+  {
+   "title": "科学家发现新的行星",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+   "summary": "科学家使用太空望远镜发现了一颗新的行星。",
+   "interpretation": "科学家通过望远镜观察宇宙，发现新的行星，帮助我们了解宇宙。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合小学生理解，激发对太空的兴趣。"
+  }
+ ]
+}
