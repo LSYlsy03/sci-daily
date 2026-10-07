@@ -5,51 +5,51 @@
    "title": "动物园狮子吃大餐，野性大爆发！",
    "source": "ScienceDaily-Top Science",
    "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
-   "summary": "动物园里的狮子吃整只动物，它们的野性表现出来了。",
-   "interpretation": "科学家通过给狮子喂整只动物，发现它们的行为更接近野生状态，这有助于我们了解动物的自然习性。",
-   "knowledge": "六上《动物的行为》",
+   "summary": "动物园里的狮子吃整只动物，行为更自然。",
+   "interpretation": "科学家通过给狮子喂整只动物，发现它们的行为更接近野生状态，这对了解动物行为很有帮助。",
+   "knowledge": "六上《工具与技术》",
    "grade": 5,
-   "grade_reason": "与动物行为相关，适合小学生理解，有趣且科学性强"
+   "grade_reason": "与动物行为相关，适合小学生理解，且有趣。"
   },
   {
-   "title": "别错过：看土星闪耀，哈雷彗星碎片划过天空",
-   "source": "ScienceDaily-Top Science",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
-   "summary": "10月份的夜空可以看到土星、哈雷彗星碎片和毕宿星团。",
-   "interpretation": "科学家提醒我们，10月份的夜空可以看到一些有趣的天文现象，这有助于激发小学生对天文的兴趣。",
-   "knowledge": "五上《宇宙的奥秘》",
-   "grade": 5,
-   "grade_reason": "与天文现象相关，适合小学生理解，有趣且科学性强"
-  },
-  {
-   "title": "人类可能不像想的那样容易暴力",
-   "source": "ScienceDaily-Top Science",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
-   "summary": "研究显示，人类和其他灵长类动物的攻击性和暴力行为并非紧密相关。",
-   "interpretation": "科学家通过比较不同灵长类动物的行为，发现攻击性和暴力行为并非必然联系，这有助于我们理解人类行为。",
-   "knowledge": "四下《人类的行为》",
-   "grade": 4,
-   "grade_reason": "与人类行为相关，适合小学生理解，但内容较为复杂"
-  },
-  {
-   "title": "太空望远镜发现炽热火山世界的惊人大气层",
+   "title": "太空望远镜发现火山世界有大气层",
    "source": "ScienceDaily-Top Science",
    "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
-   "summary": "詹姆斯·韦伯太空望远镜发现了一个炽热火山世界的惊人大气层。",
-   "interpretation": "科学家通过观测发现，即使是在极端高温下，岩石火山世界也能保留大气层，这有助于我们了解行星的形成和演化。",
-   "knowledge": "五上《宇宙的奥秘》",
-   "grade": 4,
-   "grade_reason": "与宇宙和行星相关，适合小学生理解，但内容较为复杂"
+   "summary": "詹姆斯·韦伯太空望远镜发现火山世界有大气层。",
+   "interpretation": "这个发现有助于我们了解行星如何保留大气层，对探索宇宙有重要意义。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索和行星科学相关，适合小学生理解，且有趣。"
   },
   {
-   "title": "地球中心在移动，NASA刚刚测量了它",
+   "title": "10月天空大观：土星、哈雷彗星碎片和七姐妹星团",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+   "summary": "10月天空观测：土星、哈雷彗星碎片和七姐妹星团。",
+   "interpretation": "这是一个观测天文现象的好机会，让学生了解宇宙的奥秘。",
+   "knowledge": "四上《天文》",
+   "grade": 5,
+   "grade_reason": "与天文观测和宇宙科学相关，适合小学生理解，且有趣。"
+  },
+  {
+   "title": "地球中心在移动，NASA测量了它",
    "source": "ScienceDaily-Top Science",
    "link": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
-   "summary": "地球的质量中心不断移动，科学家通过激光测距卫星和GPS数据进行了精确测量。",
-   "interpretation": "科学家通过测量发现，地球的质量中心会随着季节变化而移动，这有助于我们了解地球的物理特性。",
-   "knowledge": "五上《地球的形状和运动》",
+   "summary": "地球中心质量不断移动，NASA通过激光测距卫星和GPS数据测量了它。",
+   "interpretation": "这个发现有助于我们了解地球的动态变化，对地球科学有重要意义。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "与地球科学和地理学相关，适合小学生理解，且有趣。"
+  },
+  {
+   "title": "人类可能不像想象中那么好战",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+   "summary": "研究发现，好战和致命暴力并非同一行为谱系的一部分。",
+   "interpretation": "这项研究帮助我们理解人类行为，对教育孩子有积极意义。",
+   "knowledge": "四下《社会》",
    "grade": 4,
-   "grade_reason": "与地球运动相关，适合小学生理解，但内容较为复杂"
+   "grade_reason": "与人类行为和社会学相关，适合小学生理解。"
   }
  ]
 }
