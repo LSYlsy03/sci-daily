@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-08",
+ "items": [
+  {
+   "title": "火星卫星任务大揭秘",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+   "summary": "NASA将分享火星卫星探索任务的重要贡献。",
+   "interpretation": "这是一个关于火星卫星探索的任务，它将帮助我们了解火星及其卫星的更多信息。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "NASA推出新科技计划，探索太空新纪元",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+   "summary": "NASA宣布了两个新的科学和技术计划，以推动太空探索。",
+   "interpretation": "NASA正在推出新的科技计划，这些计划将帮助我们更好地了解太空，并推动太空探索的发展。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与太空探索相关，激发学生对太空的兴趣。"
+  },
+  {
+   "title": "太空中的“侦探”任务：检查废弃卫星",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+   "summary": "NASA的太空探测器将检查废弃的卫星，以展示太空中的检查技术。",
+   "interpretation": "这个任务将展示如何在太空中检查和修复卫星，这对于未来的太空任务非常重要。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 4,
+   "grade_reason": "与太空技术和工具相关，适合作为课堂拓展。"
+  },
+  {
+   "title": "宇航员安全返回地球",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
+   "summary": "宇航员们安全返回地球，他们将分享他们的太空之旅。",
+   "interpretation": "宇航员们完成了他们的太空任务，并安全返回地球，这是一个令人兴奋的事件。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇航员和太空任务相关，适合作为课堂拓展。"
+  },
+  {
+   "title": "太空望远镜发现大量棕矮星",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+   "summary": "NASA的太空望远镜发现了许多棕矮星，这些是介于恒星和行星之间的天体。",
+   "interpretation": "这个发现有助于我们更好地了解宇宙中的不同天体，以及它们是如何形成的。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙天体相关，适合作为课堂拓展。"
+  }
+ ]
+}
