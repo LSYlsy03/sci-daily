@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-09",
+ "items": [
+  {
+   "title": "太空酒店计划，未来太空旅行新体验",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+   "summary": "NASA正在寻求商业太空站的建设计划，未来太空旅行将更加有趣。",
+   "interpretation": "NASA正在鼓励私营企业参与太空站的建设，这将推动太空技术的发展，并为未来太空旅行提供更多可能性。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与太空探索相关，激发学生对宇宙的兴趣，适合课堂拓展。"
+  },
+  {
+   "title": "火星基地计划，人类新家园",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
+   "summary": "NASA正在寻找地下洞穴，为建立第一个月球基地做准备。",
+   "interpretation": "这项计划将有助于人类在月球上建立永久基地，为未来的火星探索奠定基础。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与太空探索和人类未来家园相关，适合课堂拓展。"
+  },
+  {
+   "title": "太空垃圾清理，宇航员的新任务",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+   "summary": "宇航员将利用太空垃圾清理技术，确保返回地球的安全。",
+   "interpretation": "通过清理太空垃圾，宇航员可以减少返回地球时的风险，同时这项技术也有助于保护地球环境。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "与电路和能源转换相关，适合四年级学生理解。"
+  },
+  {
+   "title": "宇宙魔镜，揭秘遥远星系",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+   "summary": "NASA的詹姆斯·韦伯太空望远镜捕捉到了宇宙中的奇妙景象。",
+   "interpretation": "这项技术可以帮助我们更好地了解宇宙，发现更多未知的星系和天体。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合四年级学生理解。"
+  },
+  {
+   "title": "基因密码新发现，生命奥秘再揭秘",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+   "summary": "科学家意外发现了一种打破生命规则的新型基因密码。",
+   "interpretation": "这项发现有助于我们更好地理解生命的起源和进化，为生物科学领域带来新的突破。",
+   "knowledge": "五上《生物科学》",
+   "grade": 4,
+   "grade_reason": "与生物科学相关，适合四年级学生理解。"
+  }
+ ]
+}
