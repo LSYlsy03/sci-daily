@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-10",
+ "items": [
+  {
+   "title": "NASA飞机飞越球场，和球迷互动",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+   "summary": "NASA局长开飞机飞越球场，和球迷互动。",
+   "interpretation": "NASA局长驾驶飞机飞越球场，和球迷互动，展示了科技与体育的结合，增加了公众对太空探索的兴趣。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与体育结合，有趣且能激发学生对科技的兴趣"
+  },
+  {
+   "title": "宇航员太空旅行归来",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+   "summary": "宇航员在太空旅行237天后返回地球。",
+   "interpretation": "宇航员的太空旅行，让学生了解太空探索的艰辛和科技的发展。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "激发学生对太空探索的兴趣"
+  },
+  {
+   "title": "太空中的月亮背面",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+   "summary": "今天我们来看看月亮的背面。",
+   "interpretation": "通过展示月亮背面的图片，让学生了解月亮的神秘面纱，激发他们对宇宙的好奇心。",
+   "knowledge": "四上《宇宙》",
+   "grade": 4,
+   "grade_reason": "直观展示宇宙的神秘，适合小学生"
+  },
+  {
+   "title": "泰国洪水，科学家在行动",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+   "summary": "泰国发生洪水，科学家在研究。",
+   "interpretation": "科学家通过研究洪水，了解地球环境变化，对小学生进行环保教育。",
+   "knowledge": "四下《环境与人类》",
+   "grade": 4,
+   "grade_reason": "与环保教育相关，适合小学生"
+  },
+  {
+   "title": "夜空中的奇妙现象",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+   "summary": "十月夜空中的奇妙现象。",
+   "interpretation": "通过介绍夜空中的奇妙现象，让学生了解天文知识，激发他们对宇宙的好奇心。",
+   "knowledge": "四上《宇宙》",
+   "grade": 4,
+   "grade_reason": "直观展示天文现象，适合小学生"
+  }
+ ]
+}

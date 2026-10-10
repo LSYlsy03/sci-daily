@@ -1,24 +1,17 @@
 [
  {
   "source": "NASA News",
-  "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-  "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-  "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space station…",
-  "date": "2026-10-09"
+  "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+  "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+  "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience …",
+  "date": "2026-10-10"
  },
  {
   "source": "NASA News",
-  "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-  "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-  "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimen…",
-  "date": "2026-10-09"
- },
- {
-  "source": "NASA News",
-  "title": "Cosmic House of Mirrors",
-  "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
-  "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, howeve…",
-  "date": "2026-10-09"
+  "title": "APOD: 2026 October 10 – Lunar Farside",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+  "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written …",
+  "date": "2026-10-10"
  },
  {
   "source": "NASA News",
@@ -50,17 +43,17 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "NASA is searching for hidden caves to build its first Moon base",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-  "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for fut…",
-  "date": "2026-10-08"
+  "title": "Scientists may have found a shortcut to fusion energy",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+  "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoi…",
+  "date": "2026-10-10"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-  "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise…",
-  "date": "2026-10-08"
+  "title": "MIT astronomers catch a star in a feast that could last billions of years",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+  "summary": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star. Unlike stars that rapidly swallow their companions, this one is gradually stealing mat…",
+  "date": "2026-10-10"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -85,6 +78,13 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "Hubble Space Telescope may have found a planet born after its star died",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
+  "summary": "A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832, suggesting some of the star’s expelled material may have assembled into a new gas giant. …",
+  "date": "2026-10-09"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "A 9-billion-year-old signal could help explain dark energy",
   "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
   "summary": "A Canadian radio telescope has detected the faint glow of hydrogen from billions of years ago using only its own observations, proving a long-awaited way to map the distant universe can actually work. CHIME can use this hydrogen signal to trace how matter is spread across space and measure how the u…",
@@ -106,10 +106,24 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "A famous quantum effect can finally be predicted in real materials",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
+  "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses the real atomic and electronic structures of materials, allowing researchers to p…",
+  "date": "2026-10-10"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "A quantum prediction from 1931 just came to life",
   "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
   "summary": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were …",
   "date": "2026-10-09"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Loneliness may steal nearly 6 years of good health",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+  "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
+  "date": "2026-10-10"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -127,72 +141,16 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists changed how zoo lions eat. Their wild side came out",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
-  "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasti…",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Stanford scientists turn a cancer driver into a kill switch",
   "link": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
   "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing i…",
   "date": "2026-10-08"
  },
  {
-  "source": "ScienceDaily-Top Science",
-  "title": "Humans may not be as hardwired for violence as we thought",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
-  "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such …",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Webb finds a surprising atmosphere on a scorching lava world",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
-  "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth…",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Earth’s center is moving, and NASA just measured it",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
-  "summary": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise way to track these tiny swings using laser-ranging satellites, GPS data, and measu…",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Physicists just found the ‘ghost’ of superconductivity",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
-  "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears, sugges…",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
-  "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheimer’…",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A new way to fight gum disease without wiping out good bacteria",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
-  "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control harmful bacteria without destroying beneficial species.",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Animals may have evolved 200 million years earlier than we thought",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
-  "summary": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during Snowball Earth, leaving behind little trace because their soft bodies were rarely preser…",
-  "date": "2026-10-07"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "What happens in the brain when cannabis makes you anxious?",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
-  "summary": "Cannabinoids may intensify anxiety by removing a natural brake on specific neurons in the brain’s fear center, particularly during stressful situations. In mice, shutting down those neurons sharply reduced cannabinoid-related anxious behavior.",
-  "date": "2026-10-07"
+  "source": "ScienceDaily-Technology",
+  "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
+  "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless communications by allowing antennas to change their size and direction on demand, with …",
+  "date": "2026-10-09"
  }
 ]
