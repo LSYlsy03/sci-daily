@@ -1,17 +1,10 @@
 [
  {
   "source": "NASA News",
-  "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-  "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
-  "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience …",
-  "date": "2026-10-10"
- },
- {
-  "source": "NASA News",
-  "title": "APOD: 2026 October 10 – Lunar Farside",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-  "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written …",
-  "date": "2026-10-10"
+  "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+  "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr…",
+  "date": "2026-10-11"
  },
  {
   "source": "NASA News",
@@ -21,25 +14,32 @@
   "date": "2026-10-09"
  },
  {
-  "source": "NASA News",
-  "title": "Floodwaters Overwhelm Thailand",
-  "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
-  "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
-  "date": "2026-10-09"
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+  "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium ato…",
+  "date": "2026-10-11"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "NASA astronauts splash down after 100 million miles in space",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
-  "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achieveme…",
-  "date": "2026-10-09"
+  "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+  "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infect…",
+  "date": "2026-10-11"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "October’s night sky is full of cosmic tricks and treats",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
-  "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
-  "date": "2026-10-09"
+  "title": "The eye has a hidden cleanup system scientists never knew existed",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+  "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+  "date": "2026-10-11"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
+  "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in ear…",
+  "date": "2026-10-11"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -64,20 +64,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "This “golden tree” coral was too strange for any known family",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
-  "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advance…",
-  "date": "2026-10-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
-  "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughl…",
-  "date": "2026-10-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Hubble Space Telescope may have found a planet born after its star died",
   "link": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
   "summary": "A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832, suggesting some of the star’s expelled material may have assembled into a new gas giant. …",
@@ -99,13 +85,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
-  "summary": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartilage destruction, helping damaged joints shift back toward repair in preclinical s…",
-  "date": "2026-10-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "A famous quantum effect can finally be predicted in real materials",
   "link": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
   "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses the real atomic and electronic structures of materials, allowing researchers to p…",
@@ -124,27 +103,6 @@
   "link": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
   "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
   "date": "2026-10-10"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm",
-  "summary": "Einstein Probe revealed nearly 10 minutes of soft X-ray activity following a short gamma-ray burst, exposing a phase of neutron star mergers that previous missions may have missed. The prolonged emission could have been powered by a newly formed magnetar and may provide a valuable new counterpart to…",
-  "date": "2026-10-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Just 7 days of strength training started shrinking fat cells in mice",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
-  "summary": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat, despite no change in overall body weight. The findings suggest some benefits of resistance exercise may begin long before weight loss becomes visible, t…",
-  "date": "2026-10-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Stanford scientists turn a cancer driver into a kill switch",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
-  "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing i…",
-  "date": "2026-10-08"
  },
  {
   "source": "ScienceDaily-Technology",
