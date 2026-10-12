@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-12",
+ "items": [
+  {
+   "title": "宇航员太空种菜，地球健康有希望",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+   "summary": "宇航员在太空种植植物，研究对地球有益。",
+   "interpretation": "宇航员在太空进行植物和健康研究，这些研究可以帮助我们更好地了解植物生长和人类健康，对地球上的生活有重要意义。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与科学课内容直接相关，且具有启发性和趣味性"
+  },
+  {
+   "title": "南极冰盖最大，地球气候有变化",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+   "summary": "南极冰盖达到最大面积。",
+   "interpretation": "南极冰盖的面积变化是地球气候变化的一个指标，了解这些变化有助于我们更好地保护地球。",
+   "knowledge": "四下《环境与人类》",
+   "grade": 4,
+   "grade_reason": "与地球环境相关，适合作为课堂拓展"
+  },
+  {
+   "title": "香草有神奇力量，生病不用怕",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+   "summary": "香草中的成分可以帮助抵抗疾病。",
+   "interpretation": "科学家发现香草中的成分具有抗炎和促进伤口愈合的作用，这可以帮助我们更好地治疗疾病。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物和健康相关，适合作为课堂拓展"
+  },
+  {
+   "title": "宇宙的秘密，生命存在的奥秘",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+   "summary": "科学家发现宇宙的基本物理常数可能决定了生命的存在。",
+   "interpretation": "科学家发现宇宙的基本物理常数对生命的存在至关重要，这有助于我们更好地理解宇宙和生命的奥秘。",
+   "knowledge": "五上《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "与宇宙和生命相关，适合作为课堂拓展"
+  },
+  {
+   "title": "运动能改善睡眠，健康生活有保障",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+   "summary": "每天运动10分钟，睡眠质量更好。",
+   "interpretation": "运动可以帮助我们改善睡眠质量，这对我们的身心健康非常重要。",
+   "knowledge": "四下《健康与运动》",
+   "grade": 4,
+   "grade_reason": "与健康和运动相关，适合作为课堂拓展"
+  }
+ ]
+}

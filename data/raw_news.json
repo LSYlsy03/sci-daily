@@ -1,45 +1,80 @@
 [
  {
   "source": "NASA News",
-  "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-  "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr…",
-  "date": "2026-10-11"
+  "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+  "link": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+  "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth a…",
+  "date": "2026-10-12"
  },
  {
   "source": "NASA News",
-  "title": "APOD: 2026 October 9 – Stickney Crater",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
-  "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written b…",
-  "date": "2026-10-09"
+  "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+  "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
+  "date": "2026-10-12"
+ },
+ {
+  "source": "NASA News",
+  "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+  "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+  "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+  "date": "2026-10-12"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-  "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium ato…",
+  "title": "Scientists discover vanilla’s hidden healing potential",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+  "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The inexpensive, widely available ingredient could one day become an important component of adva…",
+  "date": "2026-10-12"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists make stunning discovery that could help explain why life exists",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+  "summary": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it. Surprisingly, these…",
   "date": "2026-10-11"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
-  "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infect…",
+  "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+  "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which is essential for brain recovery, memory, and emotional well-being. Surprisingly,…",
+  "date": "2026-10-12"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+  "summary": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could explain why treatments have struggled to stop the disease and open the door to more eff…",
   "date": "2026-10-11"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "The eye has a hidden cleanup system scientists never knew existed",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
-  "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+  "title": "The hidden math of Alzheimer's could point to new treatments",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
+  "summary": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could h…",
   "date": "2026-10-11"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
-  "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in ear…",
+  "title": "New injection makes fat cells self-destruct",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
+  "summary": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help prevent the weight regain that often follows stopping popular weight loss drugs li…",
   "date": "2026-10-11"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "NASA spots a giant patch of Moon-like rock on Earth",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008102707.htm",
+  "summary": "An astronaut aboard the International Space Station photographed a remarkable formation in Madagascar that looks surprisingly similar to the Moon’s bright highlands. Made of anorthosite, a rock abundant on the lunar surface, the formation dates back at least 600 million years and bears the scars of …",
+  "date": "2026-10-11"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover a hidden factor that can make or break chemical reactions",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+  "summary": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near electrodes, they developed a promising way to manufacture chemicals for plastics, medicin…",
+  "date": "2026-10-12"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -57,34 +92,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
-  "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to he…",
-  "date": "2026-10-09"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Hubble Space Telescope may have found a planet born after its star died",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
-  "summary": "A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832, suggesting some of the star’s expelled material may have assembled into a new gas giant. …",
-  "date": "2026-10-09"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A 9-billion-year-old signal could help explain dark energy",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
-  "summary": "A Canadian radio telescope has detected the faint glow of hydrogen from billions of years ago using only its own observations, proving a long-awaited way to map the distant universe can actually work. CHIME can use this hydrogen signal to trace how matter is spread across space and measure how the u…",
-  "date": "2026-10-09"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Bacteria turn a virus’ own weapon against it",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
-  "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective phage therapies against antibiotic-resistant bacteria and provide insight into ancien…",
-  "date": "2026-10-09"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "A famous quantum effect can finally be predicted in real materials",
   "link": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
   "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses the real atomic and electronic structures of materials, allowing researchers to p…",
@@ -92,23 +99,9 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "A quantum prediction from 1931 just came to life",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-  "summary": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were …",
-  "date": "2026-10-09"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Loneliness may steal nearly 6 years of good health",
   "link": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
   "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
   "date": "2026-10-10"
- },
- {
-  "source": "ScienceDaily-Technology",
-  "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
-  "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless communications by allowing antennas to change their size and direction on demand, with …",
-  "date": "2026-10-09"
  }
 ]
