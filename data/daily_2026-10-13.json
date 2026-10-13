@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-13",
+ "items": [
+  {
+   "title": "太空望远镜发现宇宙秘密，挑战我们对宇宙的理解",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+   "summary": "太空望远镜发现了一个古老的星系团，挑战了我们对宇宙发展的理解。",
+   "interpretation": "科学家用望远镜看到了宇宙中一个古老的星系团，里面有很多看不见的暗物质，这让我们对宇宙有了新的认识。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "这个新闻可以激发学生对宇宙的兴趣，与科学课内容紧密相关。"
+  },
+  {
+   "title": "大脑地图揭秘，了解大脑的奥秘",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+   "summary": "科学家制作了大脑的3D地图，发现了大脑中的539个不同区域。",
+   "interpretation": "科学家通过研究大脑，发现了大脑中的不同区域，这有助于我们更好地了解大脑的工作原理。",
+   "knowledge": "四下《人体》",
+   "grade": 4,
+   "grade_reason": "这个新闻与人体科学相关，可以激发学生对大脑的兴趣。"
+  },
+  {
+   "title": "细胞能量升级，科学家给细胞装上超级引擎",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
+   "summary": "科学家发明了一种新技术，可以保护细胞中的能量工厂，为治疗疾病提供新方法。",
+   "interpretation": "科学家发明了一种新技术，可以保护细胞中的能量工厂，这有助于治疗一些疾病。",
+   "knowledge": "四下《细胞》",
+   "grade": 4,
+   "grade_reason": "这个新闻与细胞科学相关，可以激发学生对细胞结构的兴趣。"
+  },
+  {
+   "title": "古老生物揭示大脑进化秘密，恐龙也有智慧",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
+   "summary": "科学家发现了一种古老的恐龙，它可能帮助解释哺乳动物大脑的进化。",
+   "interpretation": "科学家发现了一种古老的恐龙，它可能帮助解释哺乳动物大脑的进化，这让我们对生物进化有了新的认识。",
+   "knowledge": "四下《生物进化》",
+   "grade": 4,
+   "grade_reason": "这个新闻与生物进化相关，可以激发学生对生物进化的兴趣。"
+  },
+  {
+   "title": "光的新特性，科学家发现光可以旋转",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+   "summary": "科学家发现光在真空中可以旋转，这挑战了我们对光的认知。",
+   "interpretation": "科学家发现光在真空中可以旋转，这让我们对光的性质有了新的认识。",
+   "knowledge": "四下《光与声音》",
+   "grade": 4,
+   "grade_reason": "这个新闻与光学相关，可以激发学生对光的兴趣。"
+  }
+ ]
+}
