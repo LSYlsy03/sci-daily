@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-14",
+ "items": [
+  {
+   "title": "宇航员太空漫步，安装太阳能板",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+   "summary": "宇航员将在太空中安装太阳能板，让我们看看他们怎么做的。",
+   "interpretation": "宇航员在太空中进行维修工作，安装太阳能板，为国际空间站提供更多电力。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "直接与科学课内容相关，且具有很高的教育意义和趣味性。"
+  },
+  {
+   "title": "太空中的音乐符号",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+   "summary": "科学家发现了一个形状像音乐符号的星系碰撞，太神奇了！",
+   "interpretation": "科学家通过望远镜观察到了一个独特的星系碰撞，它的形状像音乐符号，揭示了宇宙的奥秘。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙知识相关，适合小学生了解宇宙的神秘。"
+  },
+  {
+   "title": "太空火箭的神奇现象",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+   "summary": "火箭发射时，我们看到像水母一样的光，这是怎么回事呢？",
+   "interpretation": "火箭发射时，尾部的火焰在日出或日落时被阳光照亮，形成了类似水母的光现象。",
+   "knowledge": "四下《能源》",
+   "grade": 4,
+   "grade_reason": "与能源和光现象相关，能激发学生的好奇心。"
+  },
+  {
+   "title": "月亮的南极电池研究",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+   "summary": "科学家正在研究能在极寒环境下工作的电池，为人类重返月球做准备。",
+   "interpretation": "科学家为了人类重返月球，正在开发能在极寒环境下工作的电池，这是一个重要的科技突破。",
+   "knowledge": "五上《能源》",
+   "grade": 4,
+   "grade_reason": "与能源和科技发展相关，适合小学生了解科技的前沿。"
+  },
+  {
+   "title": "火星和蜂巢星团在极光下",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+   "summary": "科学家捕捉到了火星和蜂巢星团在极光下的壮丽景象，太美了！",
+   "interpretation": "科学家通过望远镜捕捉到了火星和蜂巢星团在极光下的美丽画面，展示了宇宙的壮丽。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙知识相关，适合小学生了解宇宙的美丽。"
+  }
+ ]
+}
