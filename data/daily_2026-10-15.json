@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-15",
+ "items": [
+  {
+   "title": "火星卫星大揭秘",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+   "summary": "NASA将帮助解开火星卫星的奥秘。",
+   "interpretation": "NASA将帮助日本宇航局探索火星的卫星，了解火星的起源和卫星的特性，这对我们了解宇宙非常重要。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙科学直接相关，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "太阳风暴来了",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+   "summary": "2026年出现罕见的大规模厄尔尼诺现象。",
+   "interpretation": "厄尔尼诺现象会影响全球气候，科学家们正在研究它。",
+   "knowledge": "四下《天气与气候》",
+   "grade": 4,
+   "grade_reason": "与气候科学相关，有助于学生了解气候变化。"
+  },
+  {
+   "title": "太空站太阳能升级",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
+   "summary": "国际空间站增加了太阳能板，提高能源供应。",
+   "interpretation": "太阳能是太空站的重要能源，增加太阳能板可以支持更多科学研究。",
+   "knowledge": "四下《能源》",
+   "grade": 4,
+   "grade_reason": "与能源科学相关，介绍可再生能源的应用。"
+  },
+  {
+   "title": "火星探测新计划",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+   "summary": "NASA将在德克萨斯州农田上低空飞行，研究农业排放。",
+   "interpretation": "NASA通过低空飞行研究农业排放，有助于改善地球环境。",
+   "knowledge": "四下《环境与人类》",
+   "grade": 4,
+   "grade_reason": "与环境保护相关，提高学生对环境保护的认识。"
+  },
+  {
+   "title": "太空编程挑战赛",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
+   "summary": "NASA举办太空编程挑战赛，鼓励所有人参与。",
+   "interpretation": "NASA举办编程挑战赛，鼓励人们利用科技探索太空。",
+   "knowledge": "六上《信息技术》",
+   "grade": 4,
+   "grade_reason": "与信息技术相关，激发学生对编程的兴趣。"
+  }
+ ]
+}
