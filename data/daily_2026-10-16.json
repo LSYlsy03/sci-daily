@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-16",
+ "items": [
+  {
+   "title": "巨型小龙虾大揭秘",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
+   "summary": "科学家发现了一种比之前更大的小龙虾，它有多大呢？",
+   "interpretation": "科学家发现了比之前更大的小龙虾，这让我们对淡水生物的生长极限有了新的认识。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "这个新闻与生物课内容相关，且非常有趣，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "南极海冰大逆转，科学家在寻找原因",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
+   "summary": "南极的海冰最近减少了，科学家在研究原因。",
+   "interpretation": "南极海冰的减少可能意味着全球气候变化的加剧，科学家正在研究其原因。",
+   "knowledge": "四下《气候与天气》",
+   "grade": 4,
+   "grade_reason": "这个新闻与气候课内容相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "NASA捕捉到飓风上的奇特波浪",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
+   "summary": "NASA的卫星捕捉到了飓风上的奇特波浪，这是怎么回事呢？",
+   "interpretation": "飓风可以影响大气层，产生奇特的波浪，科学家正在研究这些现象。",
+   "knowledge": "四下《大气与天气》",
+   "grade": 4,
+   "grade_reason": "这个新闻与大气课内容相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "科学家发现能对抗癌症的蛋白质",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm",
+   "summary": "科学家发现了一种能对抗癌症的蛋白质，这是怎么回事呢？",
+   "interpretation": "科学家发现了一种能对抗癌症的蛋白质，这为治疗癌症提供了新的思路。",
+   "knowledge": "五上《生物与人类》",
+   "grade": 4,
+   "grade_reason": "这个新闻与生物课内容相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "科学家发现一种能吃塑料的“吃豆人”酶",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
+   "summary": "科学家发现了一种能吃塑料的“吃豆人”酶，这是怎么回事呢？",
+   "interpretation": "科学家发现了一种能分解塑料的酶，这为解决塑料污染问题提供了新的希望。",
+   "knowledge": "五上《环境与人类》",
+   "grade": 4,
+   "grade_reason": "这个新闻与环境课内容相关，适合作为课堂拓展讲解。"
+  }
+ ]
+}
