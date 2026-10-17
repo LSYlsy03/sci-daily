@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-17",
+ "items": [
+  {
+   "title": "太空中的奇妙景象",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+   "summary": "每天NASA都会分享宇宙的奇妙图片，今天来看看彗星的美妙形状吧！",
+   "interpretation": "NASA每天都会发布宇宙中的奇妙图片，帮助我们了解宇宙的奥秘。彗星是太阳系中的小天体，它的形状和运动都非常有趣。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "直观展示宇宙的奇妙，激发学生对宇宙的兴趣，与科学课内容直接相关。"
+  },
+  {
+   "title": "太空望远镜的新发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+   "summary": "NASA的太空望远镜发现了宇宙中的许多奇妙事物，让我们一起来看看吧！",
+   "interpretation": "太空望远镜可以帮助我们观察宇宙中的遥远星系和星体，它们的研究对人类了解宇宙非常重要。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "太空望远镜的新发现可以激发学生对宇宙的兴趣，与科学课内容直接相关。"
+  },
+  {
+   "title": "宇航员们的太空冒险",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+   "summary": "一位宇航员讲述了她在太空中的冒险故事，听起来好刺激！",
+   "interpretation": "宇航员在太空中进行各种科学实验，他们的工作非常重要，也很有趣。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "宇航员的故事可以激发学生对太空探索的兴趣，与科学课内容相关。"
+  },
+  {
+   "title": "太空船的神奇保护罩",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+   "summary": "太空船返回地球时，有一个神奇的保护罩保护它，快来了解一下吧！",
+   "interpretation": "太空船在返回地球时，需要有一个保护罩来抵御高温，这个保护罩非常重要。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "这个新闻涉及到电路和热保护技术，与科学课内容相关。"
+  },
+  {
+   "title": "太空快递的神秘货物",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+   "summary": "太空快递带来了许多奇怪的货物，比如微型大脑模型和3D心脏组织，听起来好神奇！",
+   "interpretation": "太空中的实验可以帮助我们了解生命和医学，这些实验对人类有很大的帮助。",
+   "knowledge": "五下《生物》",
+   "grade": 4,
+   "grade_reason": "太空实验与生物科学相关，可以激发学生对生物学的兴趣，与科学课内容相关。"
+  }
+ ]
+}
