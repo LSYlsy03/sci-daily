@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-18",
+ "items": [
+  {
+   "title": "太空音乐：鹰状星云的声音",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+   "summary": "科学家把鹰状星云的声音变成了音乐，听起来像宇宙的交响乐。",
+   "interpretation": "科学家用特殊的方法把星云的声音变成了音乐，让我们能听到宇宙的声音，增加了我们对宇宙的了解。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙科学直接相关，能激发学生对宇宙的兴趣，适合课堂拓展。"
+  },
+  {
+   "title": "太空站追逐记",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+   "summary": "国际空间站被拍摄成了一道美丽的弧光，在天空中追逐。",
+   "interpretation": "国际空间站被拍摄成了一道美丽的弧光，在天空中移动，展示了太空站的存在和运动。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "直观展示了太空站，有助于学生理解太空站的功能和位置。"
+  },
+  {
+   "title": "神奇蘑菇成分让鱼儿不再凶猛",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+   "summary": "一种在蘑菇中发现的神奇成分能减少鱼的攻击性。",
+   "interpretation": "科学家发现了一种能减少鱼攻击性的成分，这有助于我们了解动物行为和生物化学。",
+   "knowledge": "四下《生物》",
+   "grade": 4,
+   "grade_reason": "与生物科学相关，能激发学生对生物行为的兴趣。"
+  },
+  {
+   "title": "科学家发现第三种磁性",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+   "summary": "科学家发现了第三种磁性，这可能会改变我们对磁性的理解。",
+   "interpretation": "科学家发现了新的磁性形式，这可能会带来新的科技突破，对未来的电子设备有重要意义。",
+   "knowledge": "五上《物理》",
+   "grade": 4,
+   "grade_reason": "与物理科学相关，能激发学生对物理现象的好奇心。"
+  },
+  {
+   "title": "蓝色莓果对心情有好处",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+   "summary": "每天吃蓝色莓果可能有助于改善心情。",
+   "interpretation": "科学家发现蓝色莓果可能对心情有好处，这有助于我们了解食物与心理健康的关系。",
+   "knowledge": "四下《健康》",
+   "grade": 3,
+   "grade_reason": "与健康科学相关，能激发学生对健康饮食的兴趣。"
+  }
+ ]
+}
