@@ -1,38 +1,94 @@
 [
  {
   "source": "NASA News",
-  "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-  "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
-  "date": "2026-10-18"
+  "title": "NASA Improves Shock, Vibration Analysis",
+  "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+  "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engine…",
+  "date": "2026-10-19"
  },
  {
   "source": "NASA News",
-  "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-  "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-  "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “M…",
-  "date": "2026-10-16"
+  "title": "Software",
+  "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+  "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Cat…",
+  "date": "2026-10-19"
  },
  {
   "source": "NASA News",
-  "title": "NASA’s Hubble Spies Spiral’s Edge",
-  "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
-  "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-  "date": "2026-10-16"
+  "title": "Experimental Facilities",
+  "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+  "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropu…",
+  "date": "2026-10-19"
  },
  {
   "source": "NASA News",
-  "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-  "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
-  "date": "2026-10-16"
+  "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+  "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+  "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+  "date": "2026-10-19"
  },
  {
   "source": "NASA News",
-  "title": "Isaias Dims the Gulf Coast",
-  "link": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
-  "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-  "date": "2026-10-16"
+  "title": "Instrumentation",
+  "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+  "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on da…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "NASA News",
+  "title": "Martian Dawn",
+  "link": "https://www.nasa.gov/image-article/martian-dawn/",
+  "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have lon…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+  "summary": "APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profes…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "NASA News",
+  "title": "Autumn Paints Poland’s Bieszczady Mountains",
+  "link": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+  "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+  "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early sign…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+  "summary": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by several warning signs, including rapid glacier retreat, heavy ra…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+  "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for t…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Something strange is happening beneath a volcano near 2 million people",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+  "summary": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve eruption forecasting for the active volcano, which sits near…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+  "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+  "date": "2026-10-19"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -43,17 +99,17 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
-  "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The finding…",
-  "date": "2026-10-18"
+  "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+  "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
+  "date": "2026-10-19"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists who discovered a third form of magnetism win major physics prize",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-  "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
-  "date": "2026-10-18"
+  "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+  "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new …",
+  "date": "2026-10-19"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -64,10 +120,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Eating blueberries every day may have a surprising effect on your mood",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
-  "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain …",
-  "date": "2026-10-18"
+  "title": "A simple touch can bring dying corals back to life in just 7 weeks",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm",
+  "summary": "Scientists have discovered that severely bleached corals can make a remarkable comeback simply by touching healthy, genetically identical corals. In laboratory experiments, dying corals regained their color and fully recovered within seven weeks, with as little as five days of contact sometimes enou…",
+  "date": "2026-10-19"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -89,6 +145,13 @@
   "link": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm",
   "summary": "Scientists have uncovered a surprising difference in how male and female skin repairs and renews itself. By tracking individual skin stem cells in living mice for five months, researchers discovered that female cells work together in a highly coordinated way, while male cells operate more independen…",
   "date": "2026-10-18"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Astronomers discover a ghostly green star unlike any known before",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+  "summary": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cyan because of unusual chemical interactions in their extreme…",
+  "date": "2026-10-19"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -120,6 +183,13 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "Fatty liver disease is actually five different conditions, scientists discover",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
+  "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, c…",
+  "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
   "link": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
   "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unravel…",
@@ -148,13 +218,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
-  "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents reveals that Germany lacked the enormous quantities of uran…",
-  "date": "2026-10-16"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
   "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
   "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather…",
@@ -165,34 +228,6 @@
   "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
   "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
   "summary": "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribute heat, causing one side of its atmosphere to bulge outward.…",
-  "date": "2026-10-16"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
-  "summary": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body's natural defenses. By growing and modifying immature immune cells rather than mature ones, researchers developed a system that can cont…",
-  "date": "2026-10-16"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A quantum highway just one atom high could transform superconductors",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
-  "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control over quantum motion could lead to a new generation of ultra-efficient superconducti…",
-  "date": "2026-10-16"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Yale scientists discover how stress changes the brain to make memories stronger",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
-  "summary": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved in emotion and memory, potentially explaining why certain mome…",
-  "date": "2026-10-16"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Astronomers discover a strange universal rule behind black hole eruptions",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
-  "summary": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts wil…",
   "date": "2026-10-16"
  }
 ]

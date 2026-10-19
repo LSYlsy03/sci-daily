@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-19",
+ "items": [
+  {
+   "title": "火箭怎么不怕晃？NASA工程师揭秘",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+   "summary": "NASA工程师如何预测火箭飞行中的震动，确保太空船安全。",
+   "interpretation": "NASA工程师通过模拟实验预测火箭飞行中的震动，确保太空船和仪器安全。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与科学课中工具和技术使用直接相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "NASA研发预测飞机噪音的软件",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+   "summary": "NASA开发软件预测飞机引擎噪音，帮助设计更安静的飞机。",
+   "interpretation": "NASA利用软件预测飞机噪音，帮助工程师设计更安静的飞机，减少噪音污染。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "涉及电路和噪音控制，与科学课内容相关，但适用范围较窄。"
+  },
+  {
+   "title": "NASA的模拟火星任务：一年隔离生活",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+   "summary": "NASA的模拟火星任务中，宇航员在隔离环境中生活一年。",
+   "interpretation": "NASA通过模拟火星任务研究人类在太空中的生存能力，为未来火星探索做准备。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "与太空探索和人类生存相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "NASA用特殊仪器测量空气和声音",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+   "summary": "NASA使用特殊仪器测量空气流动和声音，帮助减少噪音。",
+   "interpretation": "NASA利用特殊仪器测量空气流动和声音，为减少噪音污染提供技术支持。",
+   "knowledge": "四下《电路》",
+   "grade": 3,
+   "grade_reason": "涉及电路和声音测量，与科学课内容相关，但适用范围较窄。"
+  },
+  {
+   "title": "NASA捕捉火星日出，揭示风蚀地貌",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/martian-dawn/",
+   "summary": "NASA的火星车捕捉到火星日出，揭示风蚀地貌。",
+   "interpretation": "NASA通过火星车拍摄火星日出，研究火星的地貌特征。",
+   "knowledge": "六上《宇宙》",
+   "grade": 3,
+   "grade_reason": "与火星探索和地貌研究相关，适合作为课堂拓展讲解。"
+  }
+ ]
+}
