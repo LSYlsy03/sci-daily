@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-20",
+ "items": [
+  {
+   "title": "太空旅行的新动力：核能飞船",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+   "summary": "NASA的核能飞船即将前往火星，这是人类首次使用核能飞船离开地球轨道。",
+   "interpretation": "这项技术将使太空旅行更加高效，对未来的太空探索具有重要意义。",
+   "knowledge": "六上《能源》",
+   "grade": 5,
+   "grade_reason": "与能源知识直接相关，激发学生对太空探索的兴趣。"
+  },
+  {
+   "title": "火星上的飞行器：更远的飞行",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+   "summary": "NASA正在研发能在火星上飞得更远的直升机。",
+   "interpretation": "这项技术将有助于我们在火星上进行更深入的科学研究。",
+   "knowledge": "四下《飞行器与飞行原理》",
+   "grade": 4,
+   "grade_reason": "与飞行器原理相关，适合四年级学生理解。"
+  },
+  {
+   "title": "月球基地的探险车",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+   "summary": "NASA正在为月球基地研发探险车。",
+   "interpretation": "这将帮助我们更好地探索月球，了解月球的秘密。",
+   "knowledge": "五上《月球与太阳系》",
+   "grade": 4,
+   "grade_reason": "与月球探索相关，适合四年级学生了解。"
+  },
+  {
+   "title": "太空望远镜捕捉到恒星喷流",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+   "summary": "NASA的詹姆斯·韦伯太空望远镜捕捉到了恒星喷流。",
+   "interpretation": "这项技术让我们能够看到宇宙中更加遥远的景象。",
+   "knowledge": "五上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合四年级学生了解。"
+  },
+  {
+   "title": "乌兹别克斯坦加入太空探索协议",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+   "summary": "乌兹别克斯坦成为最新的太空探索协议签署国。",
+   "interpretation": "这标志着全球太空探索合作的进一步加强。",
+   "knowledge": "五上《太空探索》",
+   "grade": 3,
+   "grade_reason": "与太空探索合作相关，适合五年级学生了解。"
+  }
+ ]
+}

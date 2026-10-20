@@ -1,59 +1,115 @@
 [
  {
   "source": "NASA News",
-  "title": "NASA Improves Shock, Vibration Analysis",
-  "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-  "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engine…",
-  "date": "2026-10-19"
+  "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+  "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+  "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its …",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "Software",
-  "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
-  "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Cat…",
-  "date": "2026-10-19"
+  "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+  "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+  "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades t…",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "Experimental Facilities",
-  "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
-  "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropu…",
-  "date": "2026-10-19"
+  "title": "NASA Provides Progress Update on Moon Base Rovers",
+  "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+  "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobi…",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
-  "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
-  "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
-  "date": "2026-10-19"
+  "title": "Webb Captures Stellar Jets",
+  "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+  "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region –…",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "Instrumentation",
-  "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-  "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on da…",
-  "date": "2026-10-19"
+  "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+  "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+  "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA De…",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "Martian Dawn",
-  "link": "https://www.nasa.gov/image-article/martian-dawn/",
-  "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have lon…",
-  "date": "2026-10-19"
+  "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+  "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri…",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
-  "summary": "APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profes…",
-  "date": "2026-10-19"
+  "title": "The Human Fingerprint on Earth’s Water Cycle",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+  "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
+  "date": "2026-10-20"
  },
  {
   "source": "NASA News",
-  "title": "Autumn Paints Poland’s Bieszczady Mountains",
-  "link": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-  "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
-  "date": "2026-10-19"
+  "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+  "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+  "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists finally uncover why statins can cause muscle pain",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+  "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advanced imaging technology, researchers discovered that statins ca…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Hurricane warning maps are improving, but a dangerous problem remains",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
+  "summary": "A new study reveals that improved hurricane forecast graphics may help people identify threatened areas without making them more likely to recognize the danger or take protective action. Researchers also found that a widespread misunderstanding of the hurricane cone persists, highlighting a potentia…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+  "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most powerful telescopes, an international team studied 15 remarka…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover a surprising link between vitamin C and cancer survival",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+  "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+  "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like anim…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Your aging brain may be trading memory for something more valuable",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
+  "summary": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could be an evolutionary adaptation that helps older adults develop wisdom and share …",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
+  "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
+  "summary": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.",
+  "date": "2026-10-20"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -61,6 +117,20 @@
   "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
   "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early sign…",
   "date": "2026-10-19"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists reach the ultimate quantum limit on a surface",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+  "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technol…",
+  "date": "2026-10-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
+  "summary": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the un…",
+  "date": "2026-10-20"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -155,13 +225,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
-  "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatmen…",
-  "date": "2026-10-17"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Two monster black holes could collide in just 100 years",
   "link": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
   "summary": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair complet…",
@@ -190,44 +253,9 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
-  "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unravel…",
-  "date": "2026-10-17"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
   "link": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
   "summary": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the International Space Station, including research that could advance…",
   "date": "2026-10-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "This bird flies thousands of miles, but its wings have a catch",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
-  "summary": "Scientists have uncovered an unexpected trade-off in the wings of the European nightjar, a bird that migrates thousands of kilometers but sacrifices high-speed flight efficiency to hunt insects with remarkable agility. Even more surprisingly, it generates thrust on the upward wingbeat, a technique t…",
-  "date": "2026-10-17"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Brain cells meant to protect us may be fueling cognitive decline",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
-  "summary": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting nerve fibers and potentially contributing to worsening memory…",
-  "date": "2026-10-17"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
-  "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather…",
-  "date": "2026-10-17"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
-  "summary": "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribute heat, causing one side of its atmosphere to bulge outward.…",
-  "date": "2026-10-16"
  }
 ]
