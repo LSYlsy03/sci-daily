@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-21",
+ "items": [
+  {
+   "title": "太空火箭发动机大测试，为未来登月做准备",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+   "summary": "NASA在密西西比州测试了RS-25发动机，为未来的登月任务做准备。",
+   "interpretation": "这是为了未来的登月任务而进行的发动机测试，非常重要，因为它是未来太空探索的关键。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与科学课内容直接相关，激发学生对太空探索的兴趣。"
+  },
+  {
+   "title": "NASA九十周年，展望未来创新与探索",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+   "summary": "NASA的喷气推进实验室庆祝九十周年，展望未来的创新和探索。",
+   "interpretation": "NASA的喷气推进实验室九十年来一直在推动太空探索，现在他们展望了未来的计划。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合作为宇宙探索的背景知识介绍。"
+  },
+  {
+   "title": "火星车在火星上创下最长行驶记录",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
+   "summary": "NASA的火星车Perseverance创下了在火星上行驶的最长记录。",
+   "interpretation": "这是火星探索的一个重要里程碑，展示了人类对太空的探索能力。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合作为火星探索的案例介绍。"
+  },
+  {
+   "title": "科学家发现RNA过多会消耗细胞能量",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+   "summary": "科学家发现，细胞中RNA过多会消耗细胞能量。",
+   "interpretation": "这项研究揭示了细胞内部的一个新现象，有助于我们更好地理解生命。",
+   "knowledge": "四下《细胞》",
+   "grade": 4,
+   "grade_reason": "与细胞结构和功能相关，适合作为课堂拓展。"
+  },
+  {
+   "title": "科学家发现一种新的绿色恒星",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+   "summary": "天文学家发现了一颗新的绿色恒星，这是前所未有的。",
+   "interpretation": "这颗绿色恒星揭示了宇宙中存在的多样性，增加了我们对宇宙的了解。",
+   "knowledge": "六上《宇宙》",
+   "grade": 3,
+   "grade_reason": "适合作为宇宙探索的案例介绍。"
+  }
+ ]
+}
