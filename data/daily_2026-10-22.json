@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-22",
+ "items": [
+  {
+   "title": "太空探险大会要来了，月球基地见！",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+   "summary": "2026年，NASA将举办一场太空探险大会，讨论月球基地建设。",
+   "interpretation": "NASA将举办一场关于太空探险的大会，讨论人类重返月球和建立可持续月球基础设施的计划，这对人类太空探索非常重要。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与太空探索和月球基地建设相关，激发学生对宇宙的兴趣，适合课堂拓展讲解。"
+  },
+  {
+   "title": "太空望远镜发现了一个奇妙的螺旋星系",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/spirals-edge/",
+   "summary": "NASA的哈勃太空望远镜发现了一个遥远的螺旋星系，它离我们大约3.7亿光年。",
+   "interpretation": "哈勃望远镜拍摄到了一个遥远的螺旋星系，这有助于我们了解宇宙的构成和演化。",
+   "knowledge": "四下《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "与星系观测和宇宙探索相关，适合作为课堂拓展内容。"
+  },
+  {
+   "title": "哈勃望远镜帮助科学家找到新的观测路径",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+   "summary": "哈勃望远镜使用引力透镜技术，帮助科学家找到了新的观测路径。",
+   "interpretation": "哈勃望远镜利用引力透镜技术，帮助科学家发现了新的观测路径，这对研究宇宙非常重要。",
+   "knowledge": "四下《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "与引力透镜和宇宙观测相关，适合作为课堂拓展内容。"
+  },
+  {
+   "title": "科学家发现了一种新的绿色恒星",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+   "summary": "科学家发现了一种新的绿色恒星，它位于距离地球约1.3亿光年的地方。",
+   "interpretation": "科学家发现了一种新的绿色恒星，这有助于我们了解恒星的多样性和演化。",
+   "knowledge": "四下《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "与恒星发现和宇宙探索相关，适合作为课堂拓展内容。"
+  },
+  {
+   "title": "科学家发现新几内亚森林火灾严重",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+   "summary": "科学家发现新几内亚森林火灾严重，这可能导致严重的环境问题。",
+   "interpretation": "科学家发现新几内亚森林火灾严重，这可能导致严重的环境问题，需要我们关注和保护森林资源。",
+   "knowledge": "四下《环境与生态》",
+   "grade": 4,
+   "grade_reason": "与森林火灾和环境保护相关，适合作为课堂拓展内容。"
+  }
+ ]
+}

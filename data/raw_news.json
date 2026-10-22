@@ -1,17 +1,45 @@
 [
  {
   "source": "NASA News",
-  "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-  "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-  "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s S…",
-  "date": "2026-10-21"
+  "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+  "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+  "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space…",
+  "date": "2026-10-22"
  },
  {
   "source": "NASA News",
-  "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-  "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
-  "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years …",
-  "date": "2026-10-21"
+  "title": "Spiral’s Edge",
+  "link": "https://www.nasa.gov/image-article/spirals-edge/",
+  "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 M…",
+  "date": "2026-10-22"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+  "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+  "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+  "date": "2026-10-22"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+  "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr…",
+  "date": "2026-10-22"
+ },
+ {
+  "source": "NASA News",
+  "title": "Fires Char New Guinea",
+  "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+  "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+  "date": "2026-10-22"
+ },
+ {
+  "source": "NASA News",
+  "title": "Faster to Science: A Letter to the Science Community",
+  "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+  "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+  "date": "2026-10-22"
  },
  {
   "source": "NASA News",
@@ -28,32 +56,46 @@
   "date": "2026-10-21"
  },
  {
-  "source": "NASA News",
-  "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-  "link": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
-  "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part…",
-  "date": "2026-10-21"
+  "source": "ScienceDaily-Top Science",
+  "title": "Birds are more afraid of women than men. Scientists have no idea why",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+  "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and re…",
+  "date": "2026-10-22"
  },
  {
-  "source": "NASA News",
-  "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-  "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
-  "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact …",
-  "date": "2026-10-21"
+  "source": "ScienceDaily-Top Science",
+  "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+  "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to n…",
+  "date": "2026-10-22"
  },
  {
-  "source": "NASA News",
-  "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
-  "summary": "APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a pr…",
-  "date": "2026-10-21"
+  "source": "ScienceDaily-Top Science",
+  "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
+  "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
+  "date": "2026-10-22"
  },
  {
-  "source": "NASA News",
-  "title": "Extratropical Cyclone Whips Past Iceland",
-  "link": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
-  "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
-  "date": "2026-10-21"
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
+  "summary": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells that slow neuron production, revealing new clues about how the large, folded human brain evolved.",
+  "date": "2026-10-22"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
+  "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine small proteins that conventional electron microscopes strugg…",
+  "date": "2026-10-22"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Honey bees are bullying other bees, scientists discover",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231227.htm",
+  "summary": "Honeybees are aggressively pushing wild pollinators away from flowers, with scientists documenting how they chase off rivals and dominate valuable food sources. New research warns that rising temperatures and increasing honeybee populations could intensify this competition, threatening wild bees and…",
+  "date": "2026-10-22"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -64,17 +106,17 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Too much RNA can starve cells of energy, scientists discover",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-  "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune syst…",
-  "date": "2026-10-21"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "A train was delayed by a solar storm. But something didn't add up.",
   "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
   "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, an…",
   "date": "2026-10-21"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+  "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help id…",
+  "date": "2026-10-22"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -92,10 +134,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
-  "summary": "NASA’s Perseverance rover has shattered a historic space exploration record, traveling farther across another world than any vehicle before it. Its advanced self-driving system helped it surpass Opportunity’s 28.06-mile record in just five and a half years, a feat that previously took nearly 15. Now…",
-  "date": "2026-10-21"
+  "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
+  "summary": "Scientists discovered a rock in Papua New Guinea that plunged more than 90 kilometers beneath Earth's surface, revealing a bizarre temperature pattern that challenges established theories of Earth's interior. The unexpected shift from unusually hot to relatively cold conditions could transform our u…",
+  "date": "2026-10-22"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -162,13 +204,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
-  "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early sign…",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Scientists reach the ultimate quantum limit on a surface",
   "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
   "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technol…",
@@ -180,68 +215,5 @@
   "link": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
   "summary": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the un…",
   "date": "2026-10-20"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
-  "summary": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by several warning signs, including rapid glacier retreat, heavy ra…",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
-  "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for t…",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Something strange is happening beneath a volcano near 2 million people",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
-  "summary": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve eruption forecasting for the active volcano, which sits near…",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-  "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-  "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
-  "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new …",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A simple touch can bring dying corals back to life in just 7 weeks",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm",
-  "summary": "Scientists have discovered that severely bleached corals can make a remarkable comeback simply by touching healthy, genetically identical corals. In laboratory experiments, dying corals regained their color and fully recovered within seven weeks, with as little as five days of contact sometimes enou…",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Astronomers discover a ghostly green star unlike any known before",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-  "summary": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cyan because of unusual chemical interactions in their extreme…",
-  "date": "2026-10-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Fatty liver disease is actually five different conditions, scientists discover",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
-  "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, c…",
-  "date": "2026-10-19"
  }
 ]
