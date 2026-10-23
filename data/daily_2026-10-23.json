@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-23",
+ "items": [
+  {
+   "title": "日本海底火山又冒泡了，科学家发现新岩浆",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+   "summary": "日本海底火山在7300年前大爆发后，科学家发现岩浆库正在重新填满。",
+   "interpretation": "地球上的超级火山在长时间后再次活动，科学家通过海底地震调查发现新的岩浆库，这有助于我们了解地球内部结构和火山活动。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "与地球科学和火山活动直接相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "牙齿植入物竟然会偷走你的免疫系统",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+   "summary": "研究发现，牙齿植入物感染时，植入物本身会释放微小颗粒，影响免疫系统。",
+   "interpretation": "牙齿植入物可能会引起感染，科学家发现其与免疫系统有关，这有助于我们了解人体健康和疾病。",
+   "knowledge": "四下《人体》",
+   "grade": 4,
+   "grade_reason": "与人体健康和免疫系统相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "10美元的芯片，能戴在手腕上的医疗实验室",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+   "summary": "剑桥大学研究人员发明了一种10美元的光学传感器，可以监测血糖等指标。",
+   "interpretation": "科学家发明了一种小巧的传感器，可以监测健康指标，这有助于我们了解医学和科技的发展。",
+   "knowledge": "五上《信息与通信技术》",
+   "grade": 4,
+   "grade_reason": "与医学和科技发展相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "治疗PTSD的新方法，临床试验显示68%的缓解率",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+   "summary": "一种新的PTSD治疗方法，通过个性化脑图和磁刺激，在临床试验中显示出良好的效果。",
+   "interpretation": "科学家发现了一种新的治疗方法，可以帮助治疗PTSD，这有助于我们了解心理健康和疾病治疗。",
+   "knowledge": "五上《心理健康》",
+   "grade": 4,
+   "grade_reason": "与心理健康和疾病治疗相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "运动对帕金森病患者有双重好处",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+   "summary": "研究发现，帕金森病患者通过运动可以减缓记忆、思维和运动能力的下降。",
+   "interpretation": "运动对帕金森病患者有益，这有助于我们了解运动对健康的影响。",
+   "knowledge": "五上《健康生活》",
+   "grade": 4,
+   "grade_reason": "与运动和健康相关，适合作为课堂拓展讲解。"
+  }
+ ]
+}
