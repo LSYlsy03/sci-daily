@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-24",
+ "items": [
+  {
+   "title": "语言里的秘密：人类语言不只是情感",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+   "summary": "科学家发现，人类语言的意义组织与权力、危险和秩序有关，而不仅仅是情感。",
+   "interpretation": "这项研究挑战了我们对人类语言运作的传统理解，揭示了语言背后的深层结构。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与语言和认知科学相关，适合拓展学生的思维，提高语言学习的兴趣。"
+  },
+  {
+   "title": "小行星的秘密：太阳系起源新发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+   "summary": "小行星Bennu的样本揭示了太阳系形成的秘密。",
+   "interpretation": "这项研究帮助我们更好地理解太阳系的起源，特别是木星在其中的作用。",
+   "knowledge": "四下《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙科学相关，能够激发学生对宇宙起源的好奇心。"
+  },
+  {
+   "title": "神奇耳朵：降压新方法",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+   "summary": "刺激耳朵可能是一种降低高血压的新方法。",
+   "interpretation": "这项研究为治疗高血压提供了一种新的思路，通过刺激耳朵来调节血压。",
+   "knowledge": "四下《人体》",
+   "grade": 4,
+   "grade_reason": "与人体健康和生理学相关，适合作为健康教育的拓展内容。"
+  },
+  {
+   "title": "寻找“镜像生命”：科学家的新发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
+   "summary": "科学家提出了一种检测“镜像生命”的方法。",
+   "interpretation": "这项研究有助于我们预防可能由人工创造的“镜像生命”带来的风险。",
+   "knowledge": "六上《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物学和环境科学相关，能够激发学生对生命起源的好奇心。"
+  },
+  {
+   "title": "太阳的神秘磁场：太阳大气中的细丝",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+   "summary": "科学家在太阳大气中发现了复杂的磁场结构。",
+   "interpretation": "这项研究揭示了太阳表面的运动如何影响太阳大气中的磁场。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙科学相关，能够拓展学生对太阳和太阳活动的认识。"
+  }
+ ]
+}
