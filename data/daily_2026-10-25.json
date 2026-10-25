@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-25",
+ "items": [
+  {
+   "title": "神奇蘑菇让人看到成百上千的小人",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+   "summary": "一种神秘的蘑菇让人看到成百上千的小人。",
+   "interpretation": "科学家发现了一种蘑菇，吃了它的人能看到成百上千的小人，这是因为它含有一种特殊的物质。",
+   "knowledge": "五上《生物与环境》",
+   "grade": 5,
+   "grade_reason": "这个新闻既有趣又与科学课内容相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "三颗巨大的黑洞在宇宙早期被发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+   "summary": "科学家在遥远的星系中发现了三颗巨大的黑洞。",
+   "interpretation": "科学家在遥远的星系中发现了三颗巨大的黑洞，这是宇宙早期的一个惊人景象。",
+   "knowledge": "五上《宇宙》",
+   "grade": 5,
+   "grade_reason": "这个新闻与宇宙科学相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "科学家发现胰腺癌如何逃避治疗",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+   "summary": "科学家发现胰腺癌如何逃避治疗。",
+   "interpretation": "科学家发现胰腺癌细胞可以改变自己的基因，从而逃避治疗，这是一个重大的发现。",
+   "knowledge": "五上《生物与环境》",
+   "grade": 4,
+   "grade_reason": "这个新闻与生物科学相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "科学家发现一种新的减肥方法",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+   "summary": "科学家发现了一种新的减肥方法。",
+   "interpretation": "科学家发现了一种新的减肥方法，通过关闭一种蛋白质，可以让人燃烧更多的脂肪。",
+   "knowledge": "五上《生物与环境》",
+   "grade": 4,
+   "grade_reason": "这个新闻与健康科学相关，适合作为课堂拓展讲解。"
+  },
+  {
+   "title": "科学家发现大脑中的秘密信息传递系统",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+   "summary": "科学家发现大脑中的秘密信息传递系统。",
+   "interpretation": "科学家发现大脑中有一个区域可以发送特定的信息，帮助控制学习、注意力和行为。",
+   "knowledge": "五上《生物与环境》",
+   "grade": 4,
+   "grade_reason": "这个新闻与神经科学相关，适合作为课堂拓展讲解。"
+  }
+ ]
+}
