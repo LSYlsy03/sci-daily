@@ -1,5 +1,110 @@
 [
  {
+  "source": "NASA News",
+  "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+  "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+  "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will …",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "NEO Surveyor’s Sunshade Gets Inspected",
+  "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+  "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+  "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+  "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by S…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+  "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+  "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During …",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+  "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+  "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA’s X-59 Aircraft and Test Pilot",
+  "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+  "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from N…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+  "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+  "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most adva…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
+  "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+  "summary": "APOD Science APOD APOD: 2026 October 26 – M42:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "Hunting Red Leaves with Satellites",
+  "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+  "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+  "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w…",
+  "date": "2026-10-25"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Exercise doesn't just strengthen your heart. It rewires it",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+  "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+  "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 7…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Tiny magnetic vortices could help computers work more like your brain",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+  "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Archaeologists may have just found the world's oldest shipwreck",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
+  "summary": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected dista…",
+  "date": "2026-10-26"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+  "summary": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about…",
+  "date": "2026-10-26"
+ },
+ {
   "source": "ScienceDaily-Top Science",
   "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
   "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
@@ -8,30 +113,9 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "This mysterious mushroom makes people see hundreds of tiny humans",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
-  "summary": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible …",
-  "date": "2026-10-25"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Three giant black holes discovered in a galaxy from the dawn of time",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-  "summary": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lu…",
-  "date": "2026-10-25"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "New evidence suggests spinosaurus spent most of its life underwater",
   "link": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
   "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their f…",
-  "date": "2026-10-25"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-  "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.",
   "date": "2026-10-25"
  },
  {
@@ -64,37 +148,16 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
-  "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa…",
-  "date": "2026-10-24"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover a hidden messaging system deep inside the brain",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
-  "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, …",
-  "date": "2026-10-23"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
   "link": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
   "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooke…",
   "date": "2026-10-24"
  },
  {
-  "source": "ScienceDaily-Top Science",
-  "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-  "summary": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
-  "date": "2026-10-23"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-  "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them in…",
-  "date": "2026-10-23"
+  "source": "ScienceDaily-Technology",
+  "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+  "summary": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making the object appear invisible to thermal imaging from virtuall…",
+  "date": "2026-10-26"
  }
 ]

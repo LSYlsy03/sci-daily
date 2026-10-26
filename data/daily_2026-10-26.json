@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-26",
+ "items": [
+  {
+   "title": "火星车发现火星尘土的秘密",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+   "summary": "火星车发现火星尘土可以穿透宇航服，科学家正在研究如何保护宇航员。",
+   "interpretation": "科学家在火星上发现尘土可能对宇航员有害，需要找到保护方法。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索直接相关，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "NASA的近地天体探测器太阳帆检查完成",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+   "summary": "NASA的近地天体探测器太阳帆在检查中，它将帮助探测器在太空中工作。",
+   "interpretation": "太阳帆是探测器的重要部分，它将帮助探测器收集更多关于近地天体的信息。",
+   "knowledge": "四下《能源》",
+   "grade": 4,
+   "grade_reason": "涉及能源转换，与科学课内容相关。"
+  },
+  {
+   "title": "NASA实习生在月球探索中解决实际问题",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+   "summary": "NASA实习生在月球探索中解决实际问题，他们帮助科学家了解月球。",
+   "interpretation": "实习生通过实际工作帮助科学家更好地了解月球，展示了科学研究的实践性。",
+   "knowledge": "四上《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与月球探索相关，适合小学生了解宇宙知识。"
+  },
+  {
+   "title": "NASA邀请媒体体验月球着陆模拟",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+   "summary": "NASA邀请媒体体验月球着陆模拟，感受宇航员训练。",
+   "interpretation": "通过模拟体验，让公众了解宇航员的训练过程，激发学生对太空探索的兴趣。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 4,
+   "grade_reason": "与宇航员训练和工具技术相关，适合小学生了解科技应用。"
+  },
+  {
+   "title": "科学家发现一种新的真菌，与恐龙同时期",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+   "summary": "科学家在中国发现一种巨大的真菌，它的生长历史可以追溯到恐龙时代。",
+   "interpretation": "这种真菌的存在揭示了地球生物多样性的历史，对了解地球生态系统有重要意义。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物多样性相关，适合小学生了解生物知识。"
+  }
+ ]
+}
