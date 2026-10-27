@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-27",
+ "items": [
+  {
+   "title": "火星模拟任务结束，志愿者分享经历",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+   "summary": "火星模拟任务结束，志愿者分享他们在火星基地的生活。",
+   "interpretation": "这是一项模拟火星任务的结束，科学家们通过模拟研究火星生活，为未来真实登陆火星做准备。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，能激发学生对太空的兴趣，适合课堂拓展。"
+  },
+  {
+   "title": "NASA新任务：太阳遮阳板保护望远镜",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+   "summary": "NASA新任务使用遮阳板保护望远镜。",
+   "interpretation": "NASA使用遮阳板保护望远镜，以便更好地观察近地天体。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "涉及电路知识，适合四年级学生理解。"
+  },
+  {
+   "title": "蜘蛛也有梦？科学家发现惊人线索",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
+   "summary": "科学家发现蜘蛛也有类似人类的睡眠和梦。",
+   "interpretation": "科学家发现蜘蛛的睡眠和梦与人类相似，揭示了生物睡眠的普遍性。",
+   "knowledge": "四下《生物》",
+   "grade": 4,
+   "grade_reason": "与生物知识相关，能激发学生对生物的兴趣。"
+  },
+  {
+   "title": "运动不仅强心，还能重塑心脏神经系统",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+   "summary": "运动不仅能强心，还能重塑心脏的神经系统。",
+   "interpretation": "运动不仅能强身健体，还能改善心脏的神经系统功能。",
+   "knowledge": "四下《人体》",
+   "grade": 4,
+   "grade_reason": "与人体健康知识相关，适合四年级学生了解。"
+  },
+  {
+   "title": "科学家发现抗炎药可能帮助病毒传播",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+   "summary": "抗炎药可能无意中帮助病毒在体内传播。",
+   "interpretation": "科学家发现抗炎药可能无意中帮助病毒在体内传播，提醒我们在使用药物时要谨慎。",
+   "knowledge": "四下《健康》",
+   "grade": 4,
+   "grade_reason": "与健康知识相关，适合四年级学生了解。"
+  }
+ ]
+}
