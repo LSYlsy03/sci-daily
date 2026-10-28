@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-28",
+ "items": [
+  {
+   "title": "自闭症孩子的大脑看人脸有特别之处",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+   "summary": "研究发现，自闭症孩子的大脑处理人脸的方式与常人不同，这种差异可能比之前认为的更早出现。",
+   "interpretation": "这项研究揭示了自闭症孩子大脑的特殊处理方式，有助于我们更好地理解自闭症。",
+   "knowledge": "六上《生命科学》",
+   "grade": 4,
+   "grade_reason": "与生命科学相关，适合小学生理解大脑的工作方式。"
+  },
+  {
+   "title": "有毒蝾螈皮肤会发光，科学家发现新秘密",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+   "summary": "科学家发现，一种常见的蝾螈在紫外线照射下会发出绿色和青色光芒，这种发光能力来自它们的皮肤和毒液。",
+   "interpretation": "这项研究揭示了自然界中的一些奇妙现象，让我们对生物多样性有了更深的认识。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物和环境相关，适合小学生了解生物的多样性。"
+  },
+  {
+   "title": "月球附近辐射水平比预期高，NASA任务揭示新发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+   "summary": "NASA的Artemis I任务发现，月球附近的宇宙辐射水平比地球轨道上的要高，但并没有预期的那么高。",
+   "interpretation": "这项研究有助于我们更好地了解宇宙环境，为未来的太空探索提供重要信息。",
+   "knowledge": "五上《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "与宇宙和地球相关，适合小学生了解宇宙环境。"
+  },
+  {
+   "title": "免疫系统有触觉，科学家发现新能力",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+   "summary": "科学家发现，免疫细胞能够感知周围组织的硬度，这有助于它们判断是否需要发挥作用。",
+   "interpretation": "这项研究揭示了免疫系统的新能力，有助于我们更好地理解免疫系统的运作机制。",
+   "knowledge": "五上《生命科学》",
+   "grade": 4,
+   "grade_reason": "与生命科学相关，适合小学生了解免疫系统的功能。"
+  },
+  {
+   "title": "1亿年前的火山系统被发现，地球地质历史新篇章",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+   "summary": "科学家在伊朗发现了一个约1亿年前的火山系统，这有助于我们更好地理解地球的地质历史。",
+   "interpretation": "这项研究揭示了地球地质历史的新篇章，让我们对地球的形成和演变有了更深的认识。",
+   "knowledge": "五上《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与地球和宇宙相关，适合小学生了解地球的地质历史。"
+  }
+ ]
+}
