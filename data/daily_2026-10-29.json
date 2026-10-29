@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-29",
+ "items": [
+  {
+   "title": "太空里的万圣节派对",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+   "summary": "宇航员在太空站过万圣节，他们穿上各种服装庆祝。",
+   "interpretation": "宇航员在太空中庆祝万圣节，虽然不能像地球上一样，但他们依然用创意来庆祝。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与太空探索相关，有趣且适合小学生理解"
+  },
+  {
+   "title": "古老的火星陨石揭示了火星的秘密",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+   "summary": "科学家发现了一块古老的火星陨石，它揭示了火星的形成历史。",
+   "interpretation": "这块陨石帮助科学家了解火星的形成和早期环境。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙和天文学相关，适合小学生了解宇宙的奥秘"
+  },
+  {
+   "title": "你的名字将飞向土卫二",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+   "summary": "NASA邀请公众将自己的名字发送到土卫二。",
+   "interpretation": "这是一个让公众参与太空探索的机会，你的名字可能会被发送到遥远的土卫二。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与太空探索和公众参与相关，适合小学生了解太空探索的乐趣"
+  },
+  {
+   "title": "NASA新任飞行研究中心主任",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+   "summary": "NASA任命了新的飞行研究中心主任，他是一位经验丰富的飞行员和工程师。",
+   "interpretation": "这位新主任将带领NASA的飞行研究工作，推动太空探索。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "与太空探索和科技发展相关，适合小学生了解科技人物"
+  },
+  {
+   "title": "NASA的QuSAFE挑战赛",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+   "summary": "NASA和NIH合作举办了一个挑战赛，旨在提高药物的安全性。",
+   "interpretation": "这个挑战赛鼓励科学家们寻找新的方法来提高药物的安全性。",
+   "knowledge": "四下《科学探究》",
+   "grade": 4,
+   "grade_reason": "与科学探究和实验方法相关，适合小学生了解科学实验"
+  }
+ ]
+}
