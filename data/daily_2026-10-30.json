@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-30",
+ "items": [
+  {
+   "title": "太空大冒险：NASA的MAX POWER航空航天展",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+   "summary": "NASA要在佛罗里达州的肯尼迪航天中心举办MAX POWER航空航天展，有很多有趣的活动哦！",
+   "interpretation": "NASA举办航空航天展，让人们对太空探索更感兴趣，也展示了太空科技的发展。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与科学课内容直接相关，激发学生对太空探索的兴趣。"
+  },
+  {
+   "title": "太空望远镜发现神秘猫头星云",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+   "summary": "NASA的詹姆斯·韦伯太空望远镜拍到了一个像猫头的星云，好神奇啊！",
+   "interpretation": "这个星云的形状是由强烈的紫外线和恒星风塑造的，展示了宇宙的奇妙。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合小学生理解，激发对宇宙的好奇心。"
+  },
+  {
+   "title": "修复哈勃望远镜，探索宇宙奥秘",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+   "summary": "NASA正在考虑让商业公司来维修哈勃望远镜，这样我们可以看到更多宇宙的美景。",
+   "interpretation": "通过维修望远镜，我们可以获得更多关于宇宙的信息，对科学研究和教育都很重要。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合小学生了解太空科技的发展。"
+  },
+  {
+   "title": "旅行者号飞船的太空之旅",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+   "summary": "旅行者号飞船在太空中旅行了49年，带我们探索了太阳系的其他行星。",
+   "interpretation": "旅行者号飞船的旅行展示了人类对宇宙的探索精神，也让我们对太阳系有了更深的了解。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合小学生了解太空探索的历史和成就。"
+  },
+  {
+   "title": "火星陨石揭示了火星的奥秘",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+   "summary": "科学家们通过研究火星陨石，发现了火星的更多秘密。",
+   "interpretation": "火星陨石的研究有助于我们了解火星的地质历史和环境，对太空探索和地球科学都有重要意义。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与地球科学和太空探索相关，适合小学生了解地球和宇宙的关系。"
+  }
+ ]
+}
