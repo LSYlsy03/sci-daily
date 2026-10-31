@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-31",
+ "items": [
+  {
+   "title": "太空奇观：神秘星球之夜",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+   "summary": "NASA发布了一张神秘星球夜晚的图片，看起来非常吓人。",
+   "interpretation": "这张图片展示了另一个星球上神秘的夜晚景象，让我们对宇宙有了更多了解。",
+   "knowledge": "五上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "图片直观，能激发学生对宇宙的兴趣，适合课堂展示。"
+  },
+  {
+   "title": "火星陨石切片揭示古老秘密",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+   "summary": "科学家们用火星陨石切片来研究火星的历史。",
+   "interpretation": "通过研究火星陨石，科学家们可以了解火星的过去，这对我们探索火星有很大帮助。",
+   "knowledge": "五上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与火星探索相关，能激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "古老防御结构改写北非历史",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+   "summary": "在摩洛哥发现的一座4000年的防御结构，改写了北非的历史。",
+   "interpretation": "这个发现让我们对古代北非文明有了新的认识，也让我们对历史有了更深的理解。",
+   "knowledge": "四下《历史与社会》",
+   "grade": 4,
+   "grade_reason": "与历史相关，能激发学生对历史的兴趣。"
+  },
+  {
+   "title": "太空站升级，电力更强大",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+   "summary": "宇航员们完成了对国际空间站的升级，增加了电力。",
+   "interpretation": "这个升级让太空站有了更多的电力，可以支持更多的科学实验。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "与电路相关，能让学生了解太空站的电力系统。"
+  },
+  {
+   "title": "神秘金属在极低温下不破裂",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+   "summary": "科学家们发现了一种在极低温下不会破裂的金属。",
+   "interpretation": "这个发现可能会在未来的科技发展中发挥重要作用。",
+   "knowledge": "五上《材料》",
+   "grade": 4,
+   "grade_reason": "与材料科学相关，能激发学生对科学的兴趣。"
+  }
+ ]
+}
