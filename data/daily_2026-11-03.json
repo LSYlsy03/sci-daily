@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-03",
+ "items": [
+  {
+   "title": "宇航员太空漫步，地球美景尽收眼底",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+   "summary": "加拿大宇航员在太空行走时，拍摄到了地球的美景。",
+   "interpretation": "宇航员在太空中进行行走，展示了地球的壮丽景色，激发了人们对太空探索的兴趣。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "直观展示了太空探索的成果，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "太空站新太阳能板安装完成",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+   "summary": "宇航员在太空站上安装了新的太阳能板。",
+   "interpretation": "太空站的新太阳能板有助于为太空站提供能源，是太空探索的重要进展。",
+   "knowledge": "四下《能源》",
+   "grade": 4,
+   "grade_reason": "展示了能源在太空探索中的应用，与小学科学课程中的能源知识相关。"
+  },
+  {
+   "title": "NASA宇航员与学生互动，庆祝STEM日",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+   "summary": "NASA宇航员与学生进行实时互动，庆祝STEM日。",
+   "interpretation": "NASA宇航员与学生互动，鼓励学生探索科学、技术、工程和数学领域。",
+   "knowledge": "四下《科学探究》",
+   "grade": 4,
+   "grade_reason": "鼓励学生探索科学，与科学探究课程相关。"
+  },
+  {
+   "title": "彗星和彩虹流星，天文奇观等你来观",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+   "summary": "今天的天文奇观包括彗星和彩虹流星。",
+   "interpretation": "天文奇观展示了宇宙的美丽和神秘，激发学生对宇宙的兴趣。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙知识相关，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "太平洋风暴季节，科学家在行动",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+   "summary": "科学家正在研究太平洋的繁忙风暴季节。",
+   "interpretation": "科学家研究风暴，有助于我们更好地了解和预测天气变化。",
+   "knowledge": "四下《天气与气候》",
+   "grade": 4,
+   "grade_reason": "与天气和气候知识相关，有助于学生了解自然现象。"
+  }
+ ]
+}
