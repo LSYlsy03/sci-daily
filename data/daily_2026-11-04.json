@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-04",
+ "items": [
+  {
+   "title": "宇航员要去月球啦！",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+   "summary": "NASA计划在2028年让宇航员重返月球。",
+   "interpretation": "NASA计划在2028年再次派宇航员去月球，这是人类探索太空的重要一步，有助于我们了解月球和宇宙。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与科学课内容直接相关，激发学生对太空探索的兴趣。"
+  },
+  {
+   "title": "神秘星系大揭秘",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+   "summary": "哈勃望远镜揭示了宇宙中的一个神秘星系。",
+   "interpretation": "哈勃望远镜发现了一个神秘的星系，这有助于我们了解宇宙的奥秘。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "激发学生对宇宙的好奇心，适合课堂拓展。"
+  },
+  {
+   "title": "太空通信卫星大升级",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+   "summary": "NASA宣布了太空通信卫星的新技术。",
+   "interpretation": "NASA正在开发新技术，让太空通信更稳定，这对于太空探索非常重要。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "与电路知识相关，让学生了解科技发展。"
+  },
+  {
+   "title": "太空船导航新突破",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+   "summary": "NASA成功测试了太空船在月球和其他行星上安全着陆的新技术。",
+   "interpretation": "NASA的新技术可以帮助太空船在月球和其他行星上安全着陆，这是太空探索的重要进步。",
+   "knowledge": "四下《工具与技术》",
+   "grade": 4,
+   "grade_reason": "与工具和技术应用相关，适合课堂拓展。"
+  },
+  {
+   "title": "新发现：第三种磁力",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+   "summary": "科学家发现了第三种磁力。",
+   "interpretation": "科学家发现了新的磁力类型，这有助于我们更深入地了解物质的性质。",
+   "knowledge": "五上《物质与材料》",
+   "grade": 4,
+   "grade_reason": "与物质科学相关，适合课堂拓展。"
+  }
+ ]
+}
