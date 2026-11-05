@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-05",
+ "items": [
+  {
+   "title": "太空中的城市灯光秀",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+   "summary": "在日出前几小时，美国中西部的城市灯光照亮了夜空，像星星一样闪耀。",
+   "interpretation": "这是从太空中拍摄的地球夜景，展示了城市灯光和自然光线的美丽对比，让我们了解地球的夜晚面貌。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "直观展示地球夜景，激发学生对宇宙和地球的探索兴趣。"
+  },
+  {
+   "title": "宇航员在太空回答学生问题",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+   "summary": "宇航员在太空站上回答了学生们关于科学的问题。",
+   "interpretation": "这是宇航员与学生互动的机会，让学生们了解太空生活，激发他们对科学的兴趣。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "让学生了解宇航员的工作，激发对科学和技术的兴趣。"
+  },
+  {
+   "title": "哈勃望远镜揭示星系历史",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+   "summary": "哈勃望远镜拍摄到了一个名为M30的星系，揭示了星系的历史。",
+   "interpretation": "这是通过望远镜观察星系，了解宇宙的历史，对小学生来说很有趣。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "让学生了解望远镜的作用，激发对宇宙的探索兴趣。"
+  },
+  {
+   "title": "科学家发现新的石油过滤技术",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+   "summary": "科学家们开发了一种新的石油过滤技术，可以减少能源消耗和碳排放。",
+   "interpretation": "这是科学家们对能源和环境保护的探索，对小学生来说很有教育意义。",
+   "knowledge": "四下《能源》",
+   "grade": 4,
+   "grade_reason": "让学生了解能源和环境保护的重要性。"
+  },
+  {
+   "title": "科学家发现新的DNA结构",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+   "summary": "麻省理工学院的科学家们发现了一种新的分子结构，可以用于设计新材料。",
+   "interpretation": "这是科学家们对分子结构的探索，对小学生来说很有启发。",
+   "knowledge": "五上《分子与细胞》",
+   "grade": 4,
+   "grade_reason": "让学生了解分子结构的重要性，激发对科学的兴趣。"
+  }
+ ]
+}

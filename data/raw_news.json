@@ -1,58 +1,51 @@
 [
  {
   "source": "NASA News",
-  "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-  "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-  "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s A…",
-  "date": "2026-11-04"
+  "title": "Midwestern City Lights",
+  "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+  "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Stat…",
+  "date": "2026-11-05"
  },
  {
   "source": "NASA News",
-  "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-  "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-  "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will…",
-  "date": "2026-11-04"
+  "title": "NASA Astronauts to Answer Questions from Florida Students",
+  "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+  "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouT…",
+  "date": "2026-11-05"
  },
  {
   "source": "NASA News",
-  "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-  "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-  "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control paylo…",
-  "date": "2026-11-04"
+  "title": "Hubble Learns Galactic History From Stars",
+  "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+  "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+  "date": "2026-11-05"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+  "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
+  "date": "2026-11-05"
+ },
+ {
+  "source": "NASA News",
+  "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+  "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+  "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+  "date": "2026-11-05"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+  "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The…",
+  "date": "2026-11-05"
  },
  {
   "source": "NASA News",
   "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
   "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
   "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brou…",
-  "date": "2026-11-04"
- },
- {
-  "source": "NASA News",
-  "title": "Hubble Reveals Cosmic Mystery",
-  "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-  "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expecte…",
-  "date": "2026-11-04"
- },
- {
-  "source": "NASA News",
-  "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-  "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-  "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr…",
-  "date": "2026-11-04"
- },
- {
-  "source": "NASA News",
-  "title": "Before the Dawn in America’s Heartland",
-  "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-  "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
-  "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-  "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional ma…",
   "date": "2026-11-04"
  },
  {
@@ -75,6 +68,13 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
   "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced…",
   "date": "2026-11-04"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+  "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentia…",
+  "date": "2026-11-05"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -120,6 +120,13 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+  "summary": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientist…",
+  "date": "2026-11-05"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
   "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
   "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overla…",
@@ -134,6 +141,13 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "Scientists turn viruses into weapons against deadly superbugs",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
+  "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this e…",
+  "date": "2026-11-05"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
   "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
   "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecu…",
@@ -145,6 +159,20 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
   "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that …",
   "date": "2026-11-03"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+  "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’…",
+  "date": "2026-11-05"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+  "summary": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions invo…",
+  "date": "2026-11-05"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -187,12 +215,5 @@
   "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
   "summary": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down …",
   "date": "2026-11-03"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
-  "summary": "In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to st…",
-  "date": "2026-11-02"
  }
 ]
