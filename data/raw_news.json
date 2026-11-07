@@ -1,24 +1,31 @@
 [
  {
   "source": "NASA News",
-  "title": "Midwestern City Lights",
-  "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-  "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Stat…",
-  "date": "2026-11-05"
+  "title": "M30’s Sparkling Stars",
+  "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+  "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the earl…",
+  "date": "2026-11-06"
  },
  {
   "source": "NASA News",
-  "title": "NASA Astronauts to Answer Questions from Florida Students",
-  "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
-  "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouT…",
-  "date": "2026-11-05"
+  "title": "Supercomputing Tech Demo Schedule",
+  "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+  "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028T…",
+  "date": "2026-11-06"
  },
  {
   "source": "NASA News",
-  "title": "Hubble Learns Galactic History From Stars",
-  "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-  "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-  "date": "2026-11-05"
+  "title": "APOD: 2026 November 6 – A Farewell to Swift",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+  "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ…",
+  "date": "2026-11-06"
+ },
+ {
+  "source": "NASA News",
+  "title": "Taking a Gander at Utah’s Goosenecks",
+  "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+  "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+  "date": "2026-11-06"
  },
  {
   "source": "NASA News",
@@ -42,24 +49,38 @@
   "date": "2026-11-05"
  },
  {
-  "source": "NASA News",
-  "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-  "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-  "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brou…",
-  "date": "2026-11-04"
+  "source": "ScienceDaily-Top Science",
+  "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+  "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
+  "date": "2026-11-06"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+  "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterio…",
+  "date": "2026-11-06"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists just found dinosaur blood that survived 115 million years",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+  "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search…",
+  "date": "2026-11-06"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+  "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women…",
+  "date": "2026-11-06"
  },
  {
   "source": "ScienceDaily-Top Science",
   "title": "NASA is racing against time to save the Hubble Space Telescope",
   "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
   "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 203…",
-  "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-  "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and app…",
   "date": "2026-11-04"
  },
  {
@@ -71,10 +92,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-  "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentia…",
-  "date": "2026-11-05"
+  "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+  "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reported damage for more than a decade, the insects responsible rem…",
+  "date": "2026-11-06"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -82,13 +103,6 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
   "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks. Researchers found that fatal crashes involving school-aged pedestrians we…",
   "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
-  "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far m…",
-  "date": "2026-11-03"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -106,20 +120,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists identify two overlooked skills that predict reading success",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-  "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t…",
-  "date": "2026-11-03"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-  "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater to…",
-  "date": "2026-11-03"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
   "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
   "summary": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientist…",
@@ -127,10 +127,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-  "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overla…",
-  "date": "2026-11-03"
+  "title": "Dead stars could break one of physics' most famous limits",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+  "summary": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for …",
+  "date": "2026-11-06"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -145,20 +145,6 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
   "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this e…",
   "date": "2026-11-05"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-  "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecu…",
-  "date": "2026-11-03"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-  "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that …",
-  "date": "2026-11-03"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -183,37 +169,9 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-  "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when view…",
-  "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
   "link": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
   "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum co…",
   "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists just found a loophole that could let black holes split in two",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-  "summary": "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of an entirely new black hole phenomenon that future telescopes …",
-  "date": "2026-11-03"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
-  "summary": "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang. Known as quark-gluon plasma, this exotic substance forms at temperatures …",
-  "date": "2026-11-03"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
-  "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
-  "summary": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down …",
-  "date": "2026-11-03"
  }
 ]

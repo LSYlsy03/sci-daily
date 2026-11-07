@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-07",
+ "items": [
+  {
+   "title": "太空中的闪耀星星",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+   "summary": "NASA发布了哈勃望远镜拍摄的美丽星系图片。",
+   "interpretation": "这是由法国天文学家命名的星系，它帮助我们了解宇宙的历史。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "直观展示宇宙之美，激发学生对宇宙的好奇心。"
+  },
+  {
+   "title": "超级计算机技术展示",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+   "summary": "NASA在超级计算技术展上展示最新技术。",
+   "interpretation": "超级计算机帮助科学家解决复杂问题，是现代科技的重要工具。",
+   "knowledge": "五上《信息技术的应用》",
+   "grade": 4,
+   "grade_reason": "介绍科技发展，激发学生对计算机科学的兴趣。"
+  },
+  {
+   "title": "告别Swift望远镜",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+   "summary": "NASA的Swift望远镜完成了它的任务。",
+   "interpretation": "Swift望远镜帮助科学家研究宇宙中的爆炸事件，对科学有重要贡献。",
+   "knowledge": "六上《宇宙》",
+   "grade": 4,
+   "grade_reason": "介绍科学仪器，展示科技对科学的推动作用。"
+  },
+  {
+   "title": "恐龙血液的发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+   "summary": "科学家在恐龙化石中发现了血液。",
+   "interpretation": "这一发现让我们对恐龙有了更多了解，也让我们思考生物分子的保存。",
+   "knowledge": "四下《生物》",
+   "grade": 4,
+   "grade_reason": "结合生物知识，激发学生对古生物学的兴趣。"
+  },
+  {
+   "title": "超级月亮和流星雨",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+   "summary": "11月的夜空有超级月亮和流星雨。",
+   "interpretation": "这是自然现象，让我们了解宇宙的奇妙。",
+   "knowledge": "四下《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "结合天文知识，激发学生对自然现象的兴趣。"
+  }
+ ]
+}
