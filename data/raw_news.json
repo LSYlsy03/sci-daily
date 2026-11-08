@@ -1,17 +1,24 @@
 [
  {
   "source": "NASA News",
-  "title": "M30’s Sparkling Stars",
-  "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-  "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the earl…",
-  "date": "2026-11-06"
+  "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+  "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surfac…",
+  "date": "2026-11-07"
  },
  {
   "source": "NASA News",
-  "title": "Supercomputing Tech Demo Schedule",
-  "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-  "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028T…",
-  "date": "2026-11-06"
+  "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+  "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+  "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. Th…",
+  "date": "2026-11-07"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+  "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
+  "date": "2026-11-07"
  },
  {
   "source": "NASA News",
@@ -28,48 +35,6 @@
   "date": "2026-11-06"
  },
  {
-  "source": "NASA News",
-  "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-  "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-  "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
-  "date": "2026-11-05"
- },
- {
-  "source": "NASA News",
-  "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-  "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-  "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-  "date": "2026-11-05"
- },
- {
-  "source": "NASA News",
-  "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-  "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-  "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The…",
-  "date": "2026-11-05"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-  "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
-  "date": "2026-11-06"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-  "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterio…",
-  "date": "2026-11-06"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists just found dinosaur blood that survived 115 million years",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-  "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search…",
-  "date": "2026-11-06"
- },
- {
   "source": "ScienceDaily-Top Science",
   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
   "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
@@ -78,17 +43,38 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "NASA is racing against time to save the Hubble Space Telescope",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-  "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 203…",
-  "date": "2026-11-04"
+  "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+  "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that pl…",
+  "date": "2026-11-07"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-  "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced…",
-  "date": "2026-11-04"
+  "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
+  "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exhale is part of the natural carbon cycle, and scientists say …",
+  "date": "2026-11-07"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+  "summary": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists…",
+  "date": "2026-11-07"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+  "summary": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maintained by surviving planetary bodies, including one potential…",
+  "date": "2026-11-06"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+  "summary": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple chemical reactions, could pave the way for an entirely new clas…",
+  "date": "2026-11-06"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -96,27 +82,6 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
   "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reported damage for more than a decade, the insects responsible rem…",
   "date": "2026-11-06"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Permanent daylight saving time has a dark side, scientists warn",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
-  "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks. Researchers found that fatal crashes involving school-aged pedestrians we…",
-  "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-  "summary": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and …",
-  "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
-  "summary": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving for a specific advantage, this unusual arrangement may simply …",
-  "date": "2026-11-04"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -131,13 +96,6 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
   "summary": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for …",
   "date": "2026-11-06"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Gene editing could replace a lifetime of medication, but there's a catch",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
-  "summary": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term s…",
-  "date": "2026-11-04"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -159,19 +117,5 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
   "summary": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions invo…",
   "date": "2026-11-05"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists trick cancer cells into making the drugs that kill them",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
-  "summary": "Scientists have developed a promising new cancer-fighting strategy that uses carbon monoxide naturally produced by tumor cells to manufacture powerful drugs inside the cancer cells themselves. Early laboratory experiments suggest the technique could selectively attack cancer while sparing healthy ce…",
-  "date": "2026-11-04"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
-  "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum co…",
-  "date": "2026-11-04"
  }
 ]

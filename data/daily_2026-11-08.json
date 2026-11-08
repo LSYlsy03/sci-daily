@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-08",
+ "items": [
+  {
+   "title": "NASA要建月球基地啦！",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+   "summary": "NASA宣布了一项新的月球基地计划，要建基地啦！",
+   "interpretation": "NASA计划在月球上建立基地，这将帮助我们更了解月球，并为未来的火星探索做准备。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，激发学生对科学的兴趣，非常适合课堂拓展。"
+  },
+  {
+   "title": "NASA招募新一代宇航员",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+   "summary": "NASA正在寻找新一代宇航员，你敢试试吗？",
+   "interpretation": "NASA正在寻找有志于探索太空的新一代宇航员，这将推动人类对太空的探索。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "激发学生对太空探索的兴趣，适合课堂拓展。"
+  },
+  {
+   "title": "科学家发现地球上的奇特地貌",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+   "summary": "科学家发现了美国犹他州奇特的地貌。",
+   "interpretation": "科学家发现了地球上的奇特地貌，这有助于我们更好地了解地球。",
+   "knowledge": "四下《地球与地图》",
+   "grade": 4,
+   "grade_reason": "与地球地貌相关，适合课堂拓展。"
+  },
+  {
+   "title": "科学家发现新的银河系伙伴",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+   "summary": "科学家发现了银河系的新伙伴。",
+   "interpretation": "科学家发现了银河系的新伙伴，这有助于我们更好地了解宇宙。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合课堂拓展。"
+  },
+  {
+   "title": "科学家发现死星周围的神秘光环",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+   "summary": "科学家发现了一个死星周围的神秘光环。",
+   "interpretation": "科学家发现了一个死星周围的神秘光环，这有助于我们更好地了解宇宙。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合课堂拓展。"
+  }
+ ]
+}
