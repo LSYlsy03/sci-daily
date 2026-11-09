@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-09",
+ "items": [
+  {
+   "title": "NASA发奖金，学生造月球基地",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+   "summary": "NASA举办比赛，让学生设计月球基地，赢大奖！",
+   "interpretation": "NASA举办比赛，鼓励学生设计月球基地，激发学生对太空探索的兴趣，推动科技发展。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与太空探索相关，激发学生对科学的兴趣，适合课堂拓展讨论。"
+  },
+  {
+   "title": "太空中的大流星，太震撼了",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+   "summary": "今天太空中的大流星，亮瞎眼！",
+   "interpretation": "科学家捕捉到太空中的大流星，让我们更了解宇宙中的现象。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "简单易懂，适合小学生了解宇宙现象。"
+  },
+  {
+   "title": "古老海洋中的巨型生物，进化新发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+   "summary": "古海洋中发现巨型生物，挑战进化论。",
+   "interpretation": "科学家在古海洋中发现巨型生物化石，对进化论有新的认识。",
+   "knowledge": "四下《生物进化》",
+   "grade": 4,
+   "grade_reason": "与生物进化相关，适合小学生了解进化过程。"
+  },
+  {
+   "title": "核爆炸能救地球，但要注意方向",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+   "summary": "核爆炸能挡小行星，但方向很重要。",
+   "interpretation": "科学家研究核爆炸挡小行星的方法，提醒我们保护地球的重要性。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与地球保护相关，适合小学生了解地球保护的重要性。"
+  },
+  {
+   "title": "火星可能还有火山活动",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+   "summary": "火星可能还有火山活动，科学家发现新证据。",
+   "interpretation": "科学家发现火星可能还有火山活动，让我们更了解火星的地质活动。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与火星探索相关，适合小学生了解火星的神秘面纱。"
+  }
+ ]
+}
