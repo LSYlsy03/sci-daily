@@ -1,31 +1,108 @@
 [
  {
   "source": "NASA News",
-  "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-  "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-  "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute des…",
-  "date": "2026-11-08"
+  "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+  "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+  "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, …",
+  "date": "2026-11-10"
  },
  {
   "source": "NASA News",
-  "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-  "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-  "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
-  "date": "2026-11-08"
+  "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+  "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+  "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. …",
+  "date": "2026-11-10"
  },
  {
   "source": "NASA News",
-  "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-  "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
-  "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte…",
-  "date": "2026-11-07"
+  "title": "Rubies on Mars?",
+  "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+  "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and Supe…",
+  "date": "2026-11-09"
  },
  {
   "source": "NASA News",
-  "title": "APOD: 2026 November 6 – A Farewell to Swift",
-  "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
-  "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ…",
-  "date": "2026-11-06"
+  "title": "Newest Sample, Oldest Rock?",
+  "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+  "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. H…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "NASA News",
+  "title": "La NASA busca a la próxima generación de astronautas",
+  "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+  "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Es…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+  "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+  "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling mate…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "NASA News",
+  "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+  "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+  "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "NASA News",
+  "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+  "link": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+  "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad …",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "NASA News",
+  "title": "Astronauts Across Generations Share the Stage",
+  "link": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+  "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight.…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "NASA News",
+  "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+  "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+  "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th annivers…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Alzheimer’s may have early warning signs outside the brain",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+  "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involv…",
+  "date": "2026-11-10"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists finally discover why we learn to love bitter coffee",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+  "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+  "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a pe…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+  "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful a…",
+  "date": "2026-11-10"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
+  "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a fre…",
+  "date": "2026-11-09"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -36,20 +113,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-  "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached ext…",
-  "date": "2026-11-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-  "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection ef…",
-  "date": "2026-11-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
   "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
   "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the ol…",
@@ -57,10 +120,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-  "summary": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Plan…",
-  "date": "2026-11-08"
+  "title": "Scientists discover a surprising link between acorns and lyme disease",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+  "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production…",
+  "date": "2026-11-09"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -78,10 +141,24 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+  "summary": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based com…",
+  "date": "2026-11-09"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "Scientists discover stunning new Amazon fish that may already be endangered",
   "link": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
   "summary": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures less than three centimeters long and was found in just three small forest pools. It…",
   "date": "2026-11-08"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "A simple supplement may help clear brain fog after cancer",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+  "summary": "A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends. Researchers found that women taking an oxaloacetate supplement for eight weeks experienced sub…",
+  "date": "2026-11-09"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -124,26 +201,5 @@
   "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
   "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reve…",
   "date": "2026-11-08"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
-  "summary": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple chemical reactions, could pave the way for an entirely new clas…",
-  "date": "2026-11-06"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
-  "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reported damage for more than a decade, the insects responsible rem…",
-  "date": "2026-11-06"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Dead stars could break one of physics' most famous limits",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
-  "summary": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for …",
-  "date": "2026-11-06"
  }
 ]

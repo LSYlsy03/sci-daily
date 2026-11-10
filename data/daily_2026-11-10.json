@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-10",
+ "items": [
+  {
+   "title": "火星上的红宝石？",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+   "summary": "火星探测器发现红宝石，太神奇了！",
+   "interpretation": "火星探测器在火星上发现了红宝石，这表明火星上可能存在丰富的矿物质。这对我们了解火星的地质历史和寻找生命迹象非常重要。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "与地球科学和宇宙探索相关，小学生感兴趣，知识点直接相关"
+  },
+  {
+   "title": "NASA寻找新一代宇航员",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+   "summary": "NASA正在寻找新一代宇航员，你想成为宇航员吗？",
+   "interpretation": "NASA正在寻找有志于太空探索的新一代宇航员。这表明人类对太空的探索仍在继续，也鼓励孩子们有梦想和追求。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "激发学生对太空探索的兴趣，与科学课内容紧密相关"
+  },
+  {
+   "title": "NASA的Chandra发现恒星神秘爆发的原因",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+   "summary": "科学家发现恒星爆发的原因，太神奇了！",
+   "interpretation": "科学家使用Chandra望远镜发现了一颗恒星爆发的原因，这有助于我们更好地理解恒星的演化过程。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与天文学和宇宙探索相关，适合四年级学生理解"
+  },
+  {
+   "title": "科学家发现阿尔茨海默病的早期预警信号",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+   "summary": "科学家发现阿尔茨海默病的早期预警信号，有助于早期诊断。",
+   "interpretation": "科学家发现了一些可能预示阿尔茨海默病的早期信号，这有助于我们更早地发现和治疗这种疾病。",
+   "knowledge": "五下《健康与成长》",
+   "grade": 4,
+   "grade_reason": "与健康和医学相关，适合五年级学生理解"
+  },
+  {
+   "title": "科学家发现橡树与莱姆病之间的联系",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+   "summary": "科学家发现橡树与莱姆病之间的联系，太有趣了！",
+   "interpretation": "科学家发现橡树与莱姆病之间存在某种联系，这有助于我们更好地理解这种疾病的传播途径。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 3,
+   "grade_reason": "与生物学和环境科学相关，适合四年级学生理解"
+  }
+ ]
+}
