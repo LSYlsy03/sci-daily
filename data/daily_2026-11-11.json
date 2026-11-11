@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-11",
+ "items": [
+  {
+   "title": "旅行者1号飞船飞出地球光日，探索宇宙深处",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+   "summary": "旅行者1号飞船飞出了地球光日，这是它距离地球最远的一次。",
+   "interpretation": "旅行者1号飞船是人类的太空探测器，它飞出地球光日，意味着它已经飞出了地球的光线所能到达的范围，进入了更远的太空。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，适合小学生了解太空知识，激发兴趣。"
+  },
+  {
+   "title": "宇航员从国际空间站返回地球，分享太空生活",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+   "summary": "宇航员们从国际空间站返回地球，他们将在休斯顿太空中心与公众见面。",
+   "interpretation": "宇航员们在国际空间站进行了长时间的太空任务，他们的返回将为我们带来太空生活的第一手资料。",
+   "knowledge": "四下《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与太空生活相关，适合小学生了解宇航员的工作和生活。"
+  },
+  {
+   "title": "科学家发现引力波，揭示宇宙新世界",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+   "summary": "科学家利用引力波探测到了新的星球。",
+   "interpretation": "引力波是宇宙中的微小波动，科学家通过探测引力波，发现了新的星球，这有助于我们更好地了解宇宙。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合小学生了解宇宙的奥秘。"
+  },
+  {
+   "title": "模拟火星任务，宇航员在模拟火星沙地上留下脚印",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+   "summary": "宇航员在模拟火星沙地上留下了脚印，这是模拟火星任务的成果。",
+   "interpretation": "宇航员们进行模拟火星任务，模拟在火星上的生活和工作，这有助于我们为未来的火星探索做准备。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与火星探索相关，适合小学生了解火星探索的意义。"
+  },
+  {
+   "title": "科学家发现新的亚马逊鱼，可能已经面临灭绝",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+   "summary": "科学家在亚马逊河中发现了一种新的鱼类，但这种鱼可能已经面临灭绝。",
+   "interpretation": "科学家在亚马逊河中发现了一种新的鱼类，这有助于我们了解生物多样性，但同时也提醒我们要保护自然环境。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物多样性相关，适合小学生了解生物多样性的重要性。"
+  }
+ ]
+}
