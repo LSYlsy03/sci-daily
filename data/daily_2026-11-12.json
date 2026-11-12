@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-12",
+ "items": [
+  {
+   "title": "火星车在红色星球上钻孔探险",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+   "summary": "火星车在火星上钻孔，收集岩石样本。",
+   "interpretation": "火星车是人类的助手，在火星上钻孔可以帮助我们了解火星的地质情况，这对未来的火星探索非常重要。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，激发学生对太空的兴趣。"
+  },
+  {
+   "title": "小星星大影响：NGC 4449星系",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+   "summary": "一个小小的星系，却有着巨大的影响。",
+   "interpretation": "这个星系虽然小，但它的存在对周围的星系有重要影响，说明宇宙中每个星系都有其独特的作用。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "适合小学生理解，激发对宇宙的兴趣。"
+  },
+  {
+   "title": "雨水让水库水位上涨",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+   "summary": "美国西南部的强降雨导致水库水位上涨。",
+   "interpretation": "强降雨可以导致水库水位上涨，这是自然现象，我们需要了解它，以便更好地保护水资源。",
+   "knowledge": "四下《水资源》",
+   "grade": 4,
+   "grade_reason": "与水资源保护相关，适合小学生了解。"
+  },
+  {
+   "title": "秋天早晨的谷地雾气",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+   "summary": "秋天早晨，山谷中会出现雾气。",
+   "interpretation": "雾气是水蒸气凝结成的小水滴，这是大气现象的一种，了解它可以帮助我们更好地理解天气。",
+   "knowledge": "四下《大气》",
+   "grade": 4,
+   "grade_reason": "与大气现象相关，适合小学生了解。"
+  },
+  {
+   "title": "巨大的古代啮齿动物化石",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+   "summary": "科学家在泰国发现了34百万年前的巨大啮齿动物化石。",
+   "interpretation": "这个发现告诉我们，古代的动物种类和大小与我们今天看到的动物有很大不同，这有助于我们了解生物进化的过程。",
+   "knowledge": "四下《生物进化》",
+   "grade": 4,
+   "grade_reason": "与生物进化相关，适合小学生了解。"
+  }
+ ]
+}
