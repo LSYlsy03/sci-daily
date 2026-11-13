@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-13",
+ "items": [
+  {
+   "title": "太空女孩凯蒂的故事",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+   "summary": "一位女孩在NASA工作，帮助人类登陆月球。",
+   "interpretation": "凯蒂在NASA工作，负责月球登陆器，她的工作对人类探索太空非常重要。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与太空探索直接相关，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "NASA的超级望远镜发现宇宙中的神秘现象",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+   "summary": "NASA的哈勃望远镜发现了一些宇宙中的神秘现象。",
+   "interpretation": "哈勃望远镜帮助科学家们观察宇宙，发现了一些以前不知道的现象。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "适合小学生理解，激发对宇宙的好奇心。"
+  },
+  {
+   "title": "科学家发现火星岩石中的生命线索",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+   "summary": "NASA的火星车在火星岩石中发现了生命可能存在的证据。",
+   "interpretation": "科学家在火星上找到了可能证明生命存在的物质，这让我们对火星和生命的起源有了新的认识。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与生命起源相关，适合小学生理解。"
+  },
+  {
+   "title": "乌鸦的智慧让人惊讶",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+   "summary": "科学家发现乌鸦的决策速度比人类快。",
+   "interpretation": "乌鸦的智慧比我们想象的要高，它们的大脑处理信息非常快。",
+   "knowledge": "四下《动物》",
+   "grade": 4,
+   "grade_reason": "适合小学生了解动物的行为和智慧。"
+  },
+  {
+   "title": "科学家发现地球上的水可能来自哪里",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+   "summary": "科学家发现地球上的水可能是在地球形成时产生的。",
+   "interpretation": "地球上的水可能不是来自外太空，而是在地球形成时就存在了。",
+   "knowledge": "四下《地球与生命》",
+   "grade": 4,
+   "grade_reason": "适合小学生了解地球的形成和生命起源。"
+  }
+ ]
+}
