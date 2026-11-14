@@ -1,10 +1,31 @@
 [
  {
   "source": "NASA News",
-  "title": "I Am Artemis Katie Spicer",
-  "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-  "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint o…",
-  "date": "2026-11-12"
+  "title": "Outbursts from a Massive Star",
+  "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+  "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million…",
+  "date": "2026-11-13"
+ },
+ {
+  "source": "NASA News",
+  "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+  "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+  "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon…",
+  "date": "2026-11-13"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+  "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w…",
+  "date": "2026-11-13"
+ },
+ {
+  "source": "NASA News",
+  "title": "A Global Rebound for Mangroves",
+  "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+  "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+  "date": "2026-11-13"
  },
  {
   "source": "NASA News",
@@ -22,13 +43,6 @@
  },
  {
   "source": "NASA News",
-  "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-  "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-  "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-  "date": "2026-11-12"
- },
- {
-  "source": "NASA News",
   "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
   "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
   "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carri…",
@@ -42,11 +56,11 @@
   "date": "2026-11-12"
  },
  {
-  "source": "NASA News",
-  "title": "Scotland’s Flow Country",
-  "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
-  "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-  "date": "2026-11-12"
+  "source": "ScienceDaily-Top Science",
+  "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+  "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner…",
+  "date": "2026-11-13"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -57,17 +71,24 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-  "summary": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles aw…",
-  "date": "2026-11-12"
+  "title": "Superheated magma could fuel towering lava fountains",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+  "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eigh…",
+  "date": "2026-11-13"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Crows can make decisions twice as fast as humans, scientists discover",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-  "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while…",
-  "date": "2026-11-12"
+  "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+  "summary": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85% of the charged particles fueling the disturbance originated from Earth's upper a…",
+  "date": "2026-11-13"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+  "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, p…",
+  "date": "2026-11-13"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -88,13 +109,6 @@
   "title": "AI-powered bionic eye breakthrough could help the blind see again",
   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
   "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology coul…",
-  "date": "2026-11-12"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-  "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formati…",
   "date": "2026-11-12"
  },
  {
@@ -127,20 +141,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-  "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
-  "date": "2026-11-11"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
-  "summary": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's f…",
-  "date": "2026-11-10"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
   "link": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
   "summary": "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a rare minting accident nearly 200 years ago. Advanced 3D scans and microscopic analysis revealed unusual metal distortions suggesting the coin was crushed under extreme pressure, potentially during its o…",
@@ -162,44 +162,16 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Astronomers discover hidden alien planet in James Webb images",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-  "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to d…",
-  "date": "2026-11-10"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
   "link": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
   "summary": "Ancient manuscripts, including the 1,000-year-old York Gospels, have revealed traces of a deadly sheep virus whose history stretches back more than 3,700 years. Scientists discovered that the virus has remained remarkably unchanged for millennia, turning historic parchment into an unexpected record …",
   "date": "2026-11-11"
  },
  {
-  "source": "ScienceDaily-Top Science",
-  "title": "Scientists discover why some mosquitoes love you and others don't",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
-  "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangero…",
-  "date": "2026-11-11"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
-  "summary": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the structure and offers new clues about the violent …",
-  "date": "2026-11-10"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
-  "summary": "A century-old theory about the origins of life on Earth may be wrong. New research from the University of Cambridge suggests that comets traveled too fast and struck at unfavorable angles for the fragile molecules needed for life to survive, making successful delivery extraordinarily unlikely. Surpr…",
-  "date": "2026-11-10"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
-  "summary": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum collection, the extraordinarily rare specime…",
-  "date": "2026-11-10"
+  "source": "ScienceDaily-Technology",
+  "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+  "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin. Remar…",
+  "date": "2026-11-13"
  }
 ]

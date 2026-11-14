@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-14",
+ "items": [
+  {
+   "title": "巨大星星的爆发揭秘",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+   "summary": "科学家发现了一个巨大的不稳定星星为什么会爆发。",
+   "interpretation": "科学家用望远镜观察到了一个巨大的星星爆发，这有助于我们了解星星的生命周期。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙知识直接相关，适合小学生了解星星的奥秘。"
+  },
+  {
+   "title": "太阳风暴可能因地球大气而变得更加强大",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+   "summary": "太阳风暴可能因为地球大气而变得更加强大。",
+   "interpretation": "太阳风暴对地球有影响，科学家发现地球大气可能使太阳风暴变得更加强大。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙和地球知识直接相关，适合六年级学生了解。"
+  },
+  {
+   "title": "暗能量可能在45亿年前从负变正",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+   "summary": "暗能量可能在45亿年前从负变正。",
+   "interpretation": "暗能量是推动宇宙膨胀的力量，科学家发现它可能在很久以前发生了变化。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙知识直接相关，适合六年级学生了解宇宙的奥秘。"
+  },
+  {
+   "title": "宇航员照片启发地球观测计划",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+   "summary": "宇航员的地球照片启发了早期的地球观测计划。",
+   "interpretation": "宇航员在太空拍摄地球的照片，帮助我们更好地了解地球和环境。",
+   "knowledge": "四下《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与地球观测和环境保护相关，适合四年级学生了解。"
+  },
+  {
+   "title": "红树林的全球复苏",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+   "summary": "红树林这种重要的生态系统正在全球范围内恢复。",
+   "interpretation": "红树林是重要的生态系统，它们正在恢复，这对地球的生态平衡很重要。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物和环境知识相关，适合四年级学生了解生态系统的恢复。"
+  }
+ ]
+}
