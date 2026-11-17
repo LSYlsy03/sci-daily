@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-17",
+ "items": [
+  {
+   "title": "火星上的神秘岩石",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+   "summary": "火星探测器发现古老水系留下的神秘岩石。",
+   "interpretation": "火星探测器在火星表面发现古老水系的证据，这表明火星曾经有水。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与宇宙和地球科学直接相关，激发学生对宇宙的好奇心。"
+  },
+  {
+   "title": "火星车钻探新发现",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+   "summary": "火星车在火星上钻了49个洞，收集岩石样本。",
+   "interpretation": "火星车通过钻探收集岩石样本，帮助科学家了解火星。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "展示工具与技术如何应用于探索未知领域。"
+  },
+  {
+   "title": "火星撞击后的新发现",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+   "summary": "撞击火星的小行星揭示了新的世界。",
+   "interpretation": "科学家通过撞击火星的小行星，发现了新的地质特征。",
+   "knowledge": "六上《地球与宇宙》",
+   "grade": 5,
+   "grade_reason": "与地球科学和宇宙探索相关，适合六年级学生深入理解。"
+  },
+  {
+   "title": "卫星监测地球海洋",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+   "summary": "新卫星在地球轨道上监测海洋高度。",
+   "interpretation": "新卫星能够监测地球海洋高度，帮助科学家了解气候变化。",
+   "knowledge": "四下《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与地球科学和气候变化相关，适合四年级学生理解。"
+  },
+  {
+   "title": "太空中的飞行表演",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+   "summary": "美国空军飞行表演队进行太空飞行表演。",
+   "interpretation": "飞行表演队展示了飞行技术的进步，激发学生对飞行的兴趣。",
+   "knowledge": "四下《电路》",
+   "grade": 4,
+   "grade_reason": "与飞行技术相关，可以结合电路知识讲解。"
+  }
+ ]
+}
