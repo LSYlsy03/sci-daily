@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-19",
+ "items": [
+  {
+   "title": "太空快递车即将出发，给国际空间站送物资",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+   "summary": "NASA的太空快递车即将出发，给国际空间站送科学实验、物资和设备。",
+   "interpretation": "NASA的太空快递车将科学实验和物资送到国际空间站，帮助宇航员进行科学研究。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，激发学生对太空的兴趣，适合课堂拓展讲解。"
+  },
+  {
+   "title": "NASA宣布月球基地计划，宇航员将长期驻留月球",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+   "summary": "NASA宣布月球基地计划，宇航员将长期驻留在月球上。",
+   "interpretation": "NASA计划在月球上建立基地，让宇航员长期驻留，进行科学研究。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索和月球基地相关，适合激发学生对太空探索的兴趣。"
+  },
+  {
+   "title": "NASA举办电火箭挑战赛，寻找未来太空旅行的新动力",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+   "summary": "NASA举办电火箭挑战赛，寻找新型电火箭技术，为未来太空旅行提供动力。",
+   "interpretation": "NASA通过比赛鼓励公司研发新型电火箭，为未来的太空旅行提供更高效的推进方式。",
+   "knowledge": "六上《能源与动力》",
+   "grade": 4,
+   "grade_reason": "与能源和动力相关，适合讲解能源在科技发展中的作用。"
+  },
+  {
+   "title": "纽约帝国大厦为旅行者号飞船亮灯，庆祝它飞出地球光日",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+   "summary": "纽约帝国大厦为旅行者号飞船亮灯，庆祝它飞出地球光日，成为第一个到达那里的物体。",
+   "interpretation": "旅行者号飞船飞出地球光日，标志着人类对宇宙探索的又一重要里程碑。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合讲解人类对宇宙的探索历程。"
+  },
+  {
+   "title": "科学家发现新型深海鱼类，头部透明，眼睛可以旋转",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm",
+   "summary": "科学家在深海中发现了一种头部透明的鱼类，眼睛可以旋转。",
+   "interpretation": "科学家在深海中发现了一种独特的鱼类，其头部透明，眼睛可以旋转，为深海生物研究提供了新线索。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物和环境相关，适合讲解生物多样性和深海生物的特点。"
+  }
+ ]
+}
