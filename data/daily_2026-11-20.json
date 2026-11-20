@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-20",
+ "items": [
+  {
+   "title": "2075年的未来生活，你想知道吗？",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+   "summary": "NASA发起了一个挑战，让大家来想象2075年的生活。",
+   "interpretation": "NASA邀请大家参与想象2075年的生活，这有助于我们了解未来科技的发展方向，激发我们对科学的兴趣。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与未来科技发展相关，能激发学生对科学的兴趣和想象力。"
+  },
+  {
+   "title": "科学家发现新方法，更快找到脉冲星",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+   "summary": "科学家利用NASA的费米数据，找到了一种更快发现脉冲星的方法。",
+   "interpretation": "这项技术可以帮助我们更好地了解宇宙，发现更多奇妙的星体。",
+   "knowledge": "四上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，能激发学生对宇宙的好奇心。"
+  },
+  {
+   "title": "宇航员在太空拍摄到美丽的湖泊照片",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/lake-pelku/",
+   "summary": "宇航员在太空中拍摄到了地球上的湖泊照片。",
+   "interpretation": "这张照片让我们从太空的角度看到了地球的美，也让我们更加珍惜我们的家园。",
+   "knowledge": "四下《地球与地图》",
+   "grade": 4,
+   "grade_reason": "与地球观测相关，能激发学生对地球的认识和保护意识。"
+  },
+  {
+   "title": "旅行者1号探测器到达地球光日距离",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+   "summary": "旅行者1号探测器到达了地球光日距离，这是人类探测器历史上的一个里程碑。",
+   "interpretation": "这个发现让我们对宇宙有了更深的了解，也展示了人类科技的强大。",
+   "knowledge": "四上《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，能激发学生对宇宙的好奇心。"
+  },
+  {
+   "title": "科学家发现一种新方法，燃烧脂肪不损失肌肉",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "summary": "科学家发现了一种新方法，可以帮助人们燃烧脂肪而不损失肌肉。",
+   "interpretation": "这项研究有助于我们更好地了解人体生理，对健康生活有积极意义。",
+   "knowledge": "五上《人体》",
+   "grade": 4,
+   "grade_reason": "与人体生理相关，能激发学生对人体健康的关注。"
+  }
+ ]
+}
