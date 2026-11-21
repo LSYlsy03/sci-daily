@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-21",
+ "items": [
+  {
+   "title": "火星上的奇观：黄昏云朵飘过",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+   "summary": "好奇号火星车捕捉到了黄昏云朵的美景。",
+   "interpretation": "好奇号火星车在火星上拍摄到了只在秋季出现的黄昏云朵，这些云朵只在火星上短暂出现，非常罕见。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "与宇宙探索相关，激发学生对宇宙的兴趣，适合课堂拓展。"
+  },
+  {
+   "title": "NASA的小企业创新基金助力月球和火星探索",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+   "summary": "NASA的小企业创新基金支持小企业开发新技术。",
+   "interpretation": "NASA通过小企业创新基金支持小企业开发新技术，这些技术将用于月球和火星的探索，推动美国太空经济的发展。",
+   "knowledge": "五上《能源与科技》",
+   "grade": 4,
+   "grade_reason": "与科技发展相关，适合作为科技课的拓展内容。"
+  },
+  {
+   "title": "火星车在火星上采集岩石样本",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+   "summary": "好奇号火星车在火星上采集岩石样本。",
+   "interpretation": "好奇号火星车在火星上使用钻头采集岩石样本，这些样本将帮助科学家了解火星的地质历史。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索和地质学相关，适合作为科学课的拓展内容。"
+  },
+  {
+   "title": "旅行者1号飞船离地球越来越远",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+   "summary": "旅行者1号飞船离地球非常遥远。",
+   "interpretation": "旅行者1号飞船已经离开地球16.1亿英里，它的信号需要24小时才能到达地球，这是人类历史上的一个重要里程碑。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索相关，适合作为科学课的拓展内容。"
+  },
+  {
+   "title": "科学家将月球尘埃制成类似乐高砖块",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+   "summary": "科学家将月球尘埃制成类似乐高砖块。",
+   "interpretation": "科学家发现了一种将月球尘埃制成类似乐高砖块的方法，这为未来在月球上建立基地提供了新的可能性。",
+   "knowledge": "五上《能源与科技》",
+   "grade": 4,
+   "grade_reason": "与科技发展和太空探索相关，适合作为科学课的拓展内容。"
+  }
+ ]
+}
