@@ -1,30 +1,16 @@
 [
  {
   "source": "NASA News",
-  "title": "Curiosity Spots Drifting Twilight Clouds",
-  "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-  "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which …",
-  "date": "2026-11-20"
- },
- {
-  "source": "NASA News",
-  "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-  "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-  "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 …",
-  "date": "2026-11-20"
+  "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+  "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writt…",
+  "date": "2026-11-21"
  },
  {
   "source": "NASA News",
   "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
   "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
   "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis pro…",
-  "date": "2026-11-20"
- },
- {
-  "source": "NASA News",
-  "title": "NASA’s Curiosity Mars Rover Collects Samples",
-  "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-  "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that…",
   "date": "2026-11-20"
  },
  {
@@ -42,17 +28,17 @@
   "date": "2026-11-20"
  },
  {
-  "source": "NASA News",
-  "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-  "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-  "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be use…",
-  "date": "2026-11-19"
+  "source": "ScienceDaily-Top Science",
+  "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+  "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und…",
+  "date": "2026-11-21"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-  "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th…",
+  "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+  "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about…",
   "date": "2026-11-21"
  },
  {
@@ -71,6 +57,27 @@
  },
  {
   "source": "ScienceDaily-Top Science",
+  "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+  "summary": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
+  "date": "2026-11-21"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Even scientists can't agree on what science actually is",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+  "summary": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape fu…",
+  "date": "2026-11-21"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "A 50-year-old theory about evolution may have been wrong all along",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+  "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies ma…",
+  "date": "2026-11-21"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
   "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
   "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
   "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unkno…",
@@ -78,10 +85,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-  "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Ea…",
-  "date": "2026-11-20"
+  "title": "Scientists say the human family tree may need a radical rewrite",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+  "summary": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and…",
+  "date": "2026-11-21"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -106,20 +113,6 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Is free will an illusion? New brain research reveals a surprising twist",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-  "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still s…",
-  "date": "2026-11-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Why do farts smell so bad? The secret is brewing in your gut",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-  "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
-  "date": "2026-11-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Something strange is living beneath the skin of deep-sea pigs",
   "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
   "summary": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptional…",
@@ -134,51 +127,16 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
-  "summary": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures. Now, scientists at the Field Museum have identified a previously unrecognized species of ancient amphibian ancestor, revealing new clues about the evol…",
-  "date": "2026-11-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Too much exercise could leave your brain stuck in overdrive",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-  "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help exp…",
-  "date": "2026-11-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
   "link": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
   "summary": "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources. Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet…",
   "date": "2026-11-19"
  },
  {
-  "source": "ScienceDaily-Top Science",
-  "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
-  "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches o…",
-  "date": "2026-11-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "New discovery reveals what may be holding back room-temperature superconductors",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-  "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggestin…",
-  "date": "2026-11-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-  "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage a…",
-  "date": "2026-11-18"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-  "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzhei…",
-  "date": "2026-11-18"
+  "source": "ScienceDaily-Technology",
+  "title": "A decades-old mystery about light could hold the key to faster internet",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+  "summary": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it. Researchers at KAIST and Caltech have precisely measured how barium titanate controls and absorbs light, resolving longstanding uncertainties that have slowed its dev…",
+  "date": "2026-11-21"
  }
 ]

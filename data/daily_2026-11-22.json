@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-22",
+ "items": [
+  {
+   "title": "太空旅行者的发现：海王星的新照片",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+   "summary": "NASA的旅行者号探测器拍到了海王星的新照片，让我们一起看看这个神秘星球的美景。",
+   "interpretation": "旅行者号探测器是NASA的太空探测器，它拍摄的海王星照片让我们更了解这个遥远的星球。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 5,
+   "grade_reason": "海王星是小学生感兴趣的星球，照片直观，易于理解。"
+  },
+  {
+   "title": "科学家发现时间可能比我们想象的更奇怪",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "summary": "科学家们发现了一种检测时间流动的方法，让我们对时间有了新的认识。",
+   "interpretation": "时间是我们生活中不可或缺的部分，科学家们的研究让我们对时间有了更深的理解。",
+   "knowledge": "四下《时间与空间》",
+   "grade": 4,
+   "grade_reason": "时间的话题对小学生来说既神秘又有趣，易于引起他们的兴趣。"
+  },
+  {
+   "title": "大星星吞噬了另一颗星星，詹姆斯·韦伯望远镜捕捉到了这一幕",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "summary": "天文学家在仙女座星系中观察到了一颗小星星螺旋状地进入一颗大星星，詹姆斯·韦伯望远镜捕捉到了这一壮观的宇宙碰撞。",
+   "interpretation": "宇宙中充满了奇妙的景象，科学家们的研究让我们更了解宇宙的奥秘。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "宇宙的碰撞是小学生感兴趣的宇宙现象，易于理解。"
+  },
+  {
+   "title": "一个开创性的X射线望远镜在太空中的眼睛终于睁开",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+   "summary": "一个前往水星的X射线望远镜在太空中的眼睛终于睁开，它将揭示水星的化学秘密。",
+   "interpretation": "科学家们的研究让我们更了解太阳系中的其他行星，这对小学生来说非常有趣。",
+   "knowledge": "四下《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "水星是小学生感兴趣的行星，这个新闻让他们更了解水星。"
+  },
+  {
+   "title": "两颗巨大的星星可能正在秘密地喂养银河系的超大质量黑洞",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+   "summary": "天文学家发现了一对巨大的星星，它们的气体云可能最终会喂养银河系的超大质量黑洞。",
+   "interpretation": "黑洞是宇宙中非常神秘的天体，科学家们的研究让我们更了解黑洞。",
+   "knowledge": "六上《宇宙探索》",
+   "grade": 4,
+   "grade_reason": "黑洞是小学生感兴趣的宇宙现象，易于理解。"
+  }
+ ]
+}
