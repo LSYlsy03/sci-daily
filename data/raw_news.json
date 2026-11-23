@@ -1,10 +1,17 @@
 [
  {
   "source": "NASA News",
-  "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-  "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-  "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writt…",
-  "date": "2026-11-21"
+  "title": "65 Years of Human Spaceflight at NASA Johnson",
+  "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+  "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence fo…",
+  "date": "2026-11-22"
+ },
+ {
+  "source": "NASA News",
+  "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+  "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profe…",
+  "date": "2026-11-22"
  },
  {
   "source": "NASA News",
@@ -29,31 +36,45 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-  "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und…",
-  "date": "2026-11-21"
+  "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+  "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control…",
+  "date": "2026-11-22"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
-  "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about…",
-  "date": "2026-11-21"
+  "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+  "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal ho…",
+  "date": "2026-11-22"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
-  "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understand…",
-  "date": "2026-11-21"
+  "title": "A mysterious gap hints at black holes born from stars that never exploded",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+  "summary": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black h…",
+  "date": "2026-11-22"
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-  "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity a…",
+  "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+  "summary": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. …",
   "date": "2026-11-20"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+  "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long …",
+  "date": "2026-11-22"
+ },
+ {
+  "source": "ScienceDaily-Top Science",
+  "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+  "link": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+  "summary": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating hu…",
+  "date": "2026-11-22"
  },
  {
   "source": "ScienceDaily-Top Science",
@@ -92,45 +113,10 @@
  },
  {
   "source": "ScienceDaily-Top Science",
-  "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-  "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially har…",
-  "date": "2026-11-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
   "title": "A 3-million-year-old child just made human evolution far more complicated",
   "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
   "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dr…",
   "date": "2026-11-20"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-  "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distort…",
-  "date": "2026-11-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Something strange is living beneath the skin of deep-sea pigs",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
-  "summary": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptional…",
-  "date": "2026-11-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-  "summary": "Hydrogen flames can shift from bright orange to nearly invisible depending on something unexpected: tiny amounts of sodium floating in the air. Scientists say this discovery could help make future hydrogen-powered stoves and ovens safer by replacing visual flame detection with specialized sensors.",
-  "date": "2026-11-19"
- },
- {
-  "source": "ScienceDaily-Top Science",
-  "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-  "link": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
-  "summary": "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources. Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet…",
-  "date": "2026-11-19"
  },
  {
   "source": "ScienceDaily-Technology",

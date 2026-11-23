@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-23",
+ "items": [
+  {
+   "title": "太空旅行65年，NASA的成就太酷了！",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+   "summary": "NASA的休斯顿约翰逊航天中心已经帮助人类太空旅行65年了，从双子座任务到国际空间站的研究，太酷了！",
+   "interpretation": "NASA的成就展示了人类探索太空的勇气和智慧，对未来的太空探索有重要意义。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与太空探索相关，激发学生对宇宙的兴趣，适合课堂拓展。"
+  },
+  {
+   "title": "木星上的漩涡和颜色，太美了！",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+   "summary": "从朱诺号探测器传来的木星图片，展示了木星上的漩涡和颜色，太美了！",
+   "interpretation": "这展示了太阳系中其他行星的美丽和神秘，激发学生对宇宙的好奇心。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "适合作为天文课的拓展内容，增加学生对宇宙的认识。"
+  },
+  {
+   "title": "194岁的乌龟，长寿的秘密找到了！",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+   "summary": "194岁的乌龟，科学家发现了它长寿的秘密，可能与DNA有关。",
+   "interpretation": "这揭示了生物长寿的奥秘，对生物学研究有重要意义。",
+   "knowledge": "四下《生物》",
+   "grade": 4,
+   "grade_reason": "适合作为生物课的拓展内容，增加学生对生物多样性的认识。"
+  },
+  {
+   "title": "DNA的防晒秘密，生命在地球上存活的原因找到了！",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+   "summary": "科学家发现DNA的防晒秘密，可能帮助生命在地球上存活。",
+   "interpretation": "这揭示了生命起源的奥秘，对生物学研究有重要意义。",
+   "knowledge": "四下《生物》",
+   "grade": 4,
+   "grade_reason": "适合作为生物课的拓展内容，增加学生对生命起源的认识。"
+  },
+  {
+   "title": "黑洞的诞生，原来是这样！",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+   "summary": "科学家发现，一些恒星可能没有爆炸就变成了黑洞。",
+   "interpretation": "这揭示了宇宙中黑洞的起源，对天文学研究有重要意义。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 4,
+   "grade_reason": "适合作为天文课的拓展内容，增加学生对宇宙的认识。"
+  }
+ ]
+}
