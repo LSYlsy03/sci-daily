@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-24",
+ "items": [
+  {
+   "title": "太空中的星星宝宝",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+   "summary": "太空望远镜捕捉到星星爆炸后的美丽景象。",
+   "interpretation": "星星爆炸后留下的尘埃，是新生星星和行星的种子，了解这个过程能帮助我们更好地理解宇宙。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙知识直接相关，激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "火山岛上的新沙滩",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+   "summary": "火山爆发让太平洋岛屿多了新沙滩。",
+   "interpretation": "火山爆发改变了地球表面，了解火山活动对地球的影响有助于学生认识自然。",
+   "knowledge": "四下《地球与地图》",
+   "grade": 4,
+   "grade_reason": "与地球科学知识相关，适合低年级学生理解。"
+  },
+  {
+   "title": "太空中的癌细胞研究",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
+   "summary": "科学家在太空中研究癌细胞。",
+   "interpretation": "在微重力环境下研究癌细胞，有助于找到治疗癌症的新方法。",
+   "knowledge": "五上《健康与疾病》",
+   "grade": 4,
+   "grade_reason": "与生物和健康知识相关，适合中年级学生理解。"
+  },
+  {
+   "title": "蜘蛛的超级基因",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+   "summary": "一种小蜘蛛的基因比人类大50%。",
+   "interpretation": "研究蜘蛛基因可以帮助我们了解生物进化的奥秘。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物知识相关，适合中年级学生理解。"
+  },
+  {
+   "title": "太空核反应堆计划",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+   "summary": "NASA计划在月球上建造第一个核反应堆。",
+   "interpretation": "在月球上使用核反应堆可以为人类提供能源，是太空探索的重要一步。",
+   "knowledge": "五上《能源与能源转换》",
+   "grade": 4,
+   "grade_reason": "与能源知识相关，适合中年级学生理解。"
+  }
+ ]
+}
