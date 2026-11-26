@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-26",
+ "items": [
+  {
+   "title": "海底发现神秘湖泊，揭秘古老海洋和生命奥秘",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+   "summary": "科学家在红海海底发现神秘湖泊，可能揭示古老海洋和生命奥秘。",
+   "interpretation": "科学家在红海海底发现神秘湖泊，这些湖泊可能隐藏着地球古老海洋的秘密，甚至可能存在外星生命。",
+   "knowledge": "六上《工具与技术》",
+   "grade": 5,
+   "grade_reason": "与地球科学和生命起源相关，适合作为课堂拓展内容，激发学生兴趣。"
+  },
+  {
+   "title": "太空望远镜发现新彗星，挑战我们对宇宙的认知",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+   "summary": "太空望远镜发现一颗新彗星，挑战我们对宇宙的认知。",
+   "interpretation": "太空望远镜原本用于研究星系，却意外发现了一颗彗星，这表明我们对宇宙的了解还有很多未知。",
+   "knowledge": "四下《宇宙》",
+   "grade": 4,
+   "grade_reason": "与宇宙探索和天文学相关，适合作为课堂拓展内容，拓宽学生视野。"
+  },
+  {
+   "title": "科学家首次捕捉到反物质，探索宇宙起源",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+   "summary": "科学家首次捕捉到反物质，探索宇宙起源。",
+   "interpretation": "科学家成功捕捉到反物质，这有助于我们理解宇宙的起源和组成。",
+   "knowledge": "四下《物质》",
+   "grade": 4,
+   "grade_reason": "与物质科学和宇宙起源相关，适合作为课堂拓展内容，激发学生对科学的兴趣。"
+  },
+  {
+   "title": "科学家发现罗马沉船防水技巧，揭秘古代科技",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "summary": "科学家发现罗马沉船防水技巧，揭秘古代科技。",
+   "interpretation": "科学家在罗马沉船中发现古代防水技巧，这有助于我们了解古代科技的发展。",
+   "knowledge": "四下《技术》",
+   "grade": 4,
+   "grade_reason": "与古代科技和工程学相关，适合作为课堂拓展内容，激发学生对历史的兴趣。"
+  },
+  {
+   "title": "地球可能进入新冰河时代，全球变暖阻止了它",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+   "summary": "地球可能进入新冰河时代，全球变暖阻止了它。",
+   "interpretation": "科学家发现地球可能进入新冰河时代，但全球变暖阻止了这一过程。",
+   "knowledge": "六上《地球与气候》",
+   "grade": 4,
+   "grade_reason": "与地球气候和气候变化相关，适合作为课堂拓展内容，帮助学生了解地球环境。"
+  }
+ ]
+}
