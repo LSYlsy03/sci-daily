@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-27",
+ "items": [
+  {
+   "title": "太空中的银河眼",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+   "summary": "看，银河系就像一只眼睛在天空中。",
+   "interpretation": "这是银河系的照片，它看起来像一只眼睛，因为它的形状和亮度分布很特别。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "直观且有趣，能激发学生对宇宙的好奇心。"
+  },
+  {
+   "title": "古老的月球岩石",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+   "summary": "科学家发现了来自月球背面的古老岩石。",
+   "interpretation": "这些岩石提供了关于太阳系早期历史的线索，帮助我们更好地理解太阳系的形成。",
+   "knowledge": "六上《宇宙》",
+   "grade": 5,
+   "grade_reason": "与宇宙科学和月球探索相关，适合五年级学生深入探讨。"
+  },
+  {
+   "title": "火星和月球上的农作物",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+   "summary": "科学家在研究适合在火星和月球上种植的农作物。",
+   "interpretation": "为了未来的太空旅行，科学家们正在寻找能在火星和月球上生长的农作物，这样宇航员就能吃到新鲜的蔬菜。",
+   "knowledge": "四下《植物》",
+   "grade": 4,
+   "grade_reason": "与植物生长相关，适合四年级学生理解。"
+  },
+  {
+   "title": "隐藏在澳大利亚的地下世界",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+   "summary": "科学家发现了澳大利亚地下隐藏的洞穴。",
+   "interpretation": "这些洞穴是数百万年前形成的，它们揭示了地球内部的一些秘密。",
+   "knowledge": "五上《地球与地图》",
+   "grade": 4,
+   "grade_reason": "与地球科学和地质学相关，适合四年级学生探索。"
+  },
+  {
+   "title": "用重力传信息",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+   "summary": "科学家用重力在砖墙另一边传信息。",
+   "interpretation": "科学家们发现了一种新的方法，通过改变重力的强度来传递信息，这可能会在未来有很实用的应用。",
+   "knowledge": "四下《声音》",
+   "grade": 4,
+   "grade_reason": "与声音传播的原理相关，适合四年级学生理解。"
+  }
+ ]
+}
