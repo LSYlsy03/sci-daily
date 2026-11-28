@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-28",
+ "items": [
+  {
+   "title": "宇航员安德烈参观NASA工厂，准备太空任务",
+   "source": "NASA News",
+   "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+   "summary": "宇航员安德烈在NASA工厂参观，准备太空任务。",
+   "interpretation": "宇航员安德烈在NASA的工厂参观，准备即将进行的太空任务。这很重要，因为它是人类探索太空的一部分。",
+   "knowledge": "六上《宇宙与地球》",
+   "grade": 5,
+   "grade_reason": "与太空探索直接相关，能激发学生对宇宙的兴趣。"
+  },
+  {
+   "title": "NASA发射太空农作物研究，太空种植新篇章",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+   "summary": "NASA发射任务，携带太空农作物研究。",
+   "interpretation": "NASA发射任务，研究在太空中种植农作物，这对未来太空生活非常重要。",
+   "knowledge": "四下《植物》",
+   "grade": 4,
+   "grade_reason": "与植物生长相关，适合四年级学生了解太空农业。"
+  },
+  {
+   "title": "火山云层下的月亮观察者",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+   "summary": "科学家拍摄到火山云层下的月亮。",
+   "interpretation": "科学家通过地球观测卫星拍摄到火山云层下的月亮，这有助于我们了解地球和太空的关系。",
+   "knowledge": "四下《地球与宇宙》",
+   "grade": 4,
+   "grade_reason": "与地球观测和宇宙探索相关，适合四年级学生了解。"
+  },
+  {
+   "title": "新西兰岛屿上的生态保护战",
+   "source": "NASA News",
+   "link": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+   "summary": "新西兰岛屿上的生态保护行动。",
+   "interpretation": "新西兰岛屿上的生态保护行动，保护本地鸟类免受捕食者威胁，这对生态保护非常重要。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生态保护相关，适合四年级学生了解生态平衡。"
+  },
+  {
+   "title": "科学家发现海豚角里的工程秘密",
+   "source": "ScienceDaily-Top Science",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "summary": "科学家发现海豚角里的自然工程秘密。",
+   "interpretation": "科学家通过研究海豚角，发现了自然工程的一个奇迹，这有助于我们了解生物的奇妙。",
+   "knowledge": "四下《生物与环境》",
+   "grade": 4,
+   "grade_reason": "与生物结构和功能相关，适合四年级学生了解生物的奥秘。"
+  }
+ ]
+}
